@@ -22,6 +22,8 @@
 4. Remove from heat and stir in the vanilla extract.
 5. Allow the sauce to cool to room temperature before serving or using as an ingredient in another recipe.
 
+## Storage
+Store the sauce in the refrigerator in an airtight container for up to two weeks.
 
 ## Sources/Inspiration
 * [onegreenplanet.org vegan butterscotch sauce](http://www.onegreenplanet.org/vegan-food/recipe-butterscotch-sauce/)
