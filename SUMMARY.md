@@ -5,5 +5,6 @@
 ### Drinks
 * [Butterbeer](drinks/butterbeer.md)
 
-### Sauces
-* [butterscotch sauce](sauces/butterscotch_sauce.md)
+### Sweets
+* [butterscotch sauce](sweets/butterscotch_sauce.md)
+* [dipping chocolate w/ paraffin wax](sweets/dipping_chocolate_paraffin_wax.md)

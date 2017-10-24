@@ -2,7 +2,7 @@
 
 
 ## Ingredients
-* 1/2 cup [butterscotch sauce](../sauces/butterscotch_sauce.md) (use 1/3 cup for a less sweet version)
+* 1/2 cup [butterscotch sauce](../sweets/butterscotch_sauce.md) (use 1/3 cup for a less sweet version)
 * 4 cups apple cider
 * 1/2 cup bourbon, or more or less to your taste (optional)
 * 1 cup ginger beer OR sub ginger ale
@@ -13,7 +13,7 @@
 * 2 tbsp vanilla extract
 
 ## Mise en place
-1. 1/2 cup [butterscotch sauce](../sauces/butterscotch_sauce.md), 4 cups apple cider, 1/2 cup bourbon
+1. 1/2 cup [butterscotch sauce](../sweets/butterscotch_sauce.md), 4 cups apple cider, 1/2 cup bourbon
 2. 1 cup ginger beer
 3. 2 tbsp vegan butter, 1/2 tsp cloves, 1/2 tsp cinnamon, 1/2 tsp ginger, 2 tbsp vanilla extract
 
