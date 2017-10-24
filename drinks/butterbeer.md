@@ -17,5 +17,9 @@
 3. Remove from heat and stir in butter and vanilla. Serve.
 
 
+## Storage
+Store the sauce in the refrigerator in an airtight container for up to two weeks.
+
+
 ## Sources/Inspiration
 * [Tablespoon Butter Beer Recipe](https://www.tablespoon.com/recipes/bourbon-butterbeer/8ab84ce4-b4fa-4174-9623-fb3ca1bd5721)
