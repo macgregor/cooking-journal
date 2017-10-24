@@ -7,9 +7,9 @@
 * 1/2 cup bourbon, or more or less to your taste (optional)
 * 1 cup ginger beer OR sub ginger ale
 * 2 tbsp vegan butter substitute
-* 1/2 teaspoon cloves
-* 1/2 teaspoon ground cinnamon
-* 1/2 teaspoon ground ginger
+* 1/2 tsp cloves
+* 1/2 tsp ground cinnamon
+* 1/2 tsp ground ginger
 * 2 tbsp vanilla extract
 
 ## Mise en place
