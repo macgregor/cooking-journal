@@ -25,5 +25,5 @@
 ## Storage
 Store the sauce in the refrigerator in an airtight container for up to two weeks.
 
-## Sources/Inspiration
+## Sources
 * [onegreenplanet.org vegan butterscotch sauce](http://www.onegreenplanet.org/vegan-food/recipe-butterscotch-sauce/)

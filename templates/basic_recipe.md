@@ -31,10 +31,10 @@ Optional
 Special storage instructions, how long it will stay good.
 
 
-## Notes/Tips
+## Notes
 Optional
 Notes about what was difficult, what could be better, what was good, etc
 
 
-## Sources/Inspiration
+## Sources
 * [link 1](http://www.google.com)

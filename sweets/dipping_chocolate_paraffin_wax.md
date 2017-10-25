@@ -30,7 +30,7 @@
 9. dip whatever in the chocolate, place on a waxed-paper lined cookie-sheet and allow to harden. 15 minutes to 1 hour, depending on ambient temperature.
 
 
-## Notes/Tips
+## Notes
 * the wax gives the chocolate a sheen and helps it not melt are room temperature.
 * there is some debate as to the safety of using wax in chocolate, but most sources seem to think its perfectly fine:
   * [wax is going to kill you according to some guy on the internet](http://www.ochef.com/674.htm)
@@ -40,7 +40,7 @@
 * There were a few chunks of unmelted paraffin wax in the final melted chocolate product. It didnt get in the way in the end but was annoying. Not sure why this happened yet. Might try melting chocolate and paraffin in seperate pans and mixing them together next time.
 
 
-## Sources/Inspiration
+## Sources
 * [craftybaking.com chocolate melt](https://www.craftybaking.com/howto/chocolate-melt) - great general source for different chocolate melting techniques
 * [geniuskitchen.com dipping chocolate](http://www.geniuskitchen.com/recipe/the-best-dipping-coating-chocolate-ever-282722)
 * [reddit thread on paraffin wax viability/alternatives](https://www.reddit.com/r/Cooking/comments/3w828j/candy_coating_for_the_lazy_xpost_from_raskculinary/)

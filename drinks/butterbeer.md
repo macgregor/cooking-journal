@@ -25,6 +25,6 @@
 4. Remove from heat and stir in butter mixture. Serve.
 
 
-## Sources/Inspiration
+## Sources
 * [Tablespoon Butter Beer Recipe](https://www.tablespoon.com/recipes/bourbon-butterbeer/8ab84ce4-b4fa-4174-9623-fb3ca1bd5721)
 * [Wellplated Hot Buttered Bourbon](https://www.wellplated.com/hot-buttered-bourbon/)
