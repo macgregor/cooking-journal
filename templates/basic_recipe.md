@@ -28,12 +28,16 @@ Include amounts needed, the same as the ingredients list
 
 ## Storage
 Optional
-Special storage instructions, how long it will stay good.
+Special storage instructions, how long it will keep.
 
 
 ## Notes
 Optional
-Notes about what was difficult, what could be better, what was good, etc
+General notes, research, advice, etc.
+
+### Trial 1
+Optional
+Notes on a specific trial of a recipe. Pontification and things to try differently next time
 
 
 ## Sources
