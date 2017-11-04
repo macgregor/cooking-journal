@@ -10,6 +10,11 @@
 ### Bread
 * [sourdough starter](bread/sourdough_starter.md)
 
+### Pets
+
+#### Dog
+* [peanut butter birthday cake](pets/dog/peanutbutter_birthday_cake.md)
+
 ### Cookbooks
 * [Flour, Water, Salt, Yeast - Ken Forkish](cookbooks/flour_water_salt_yeast_ken_forkish.md)
 * [The Make Ahead Vegan - Ginny McMeans](cookbooks/make_ahead_vegan_ginny_mcmeans.md)
