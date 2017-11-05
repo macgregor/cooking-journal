@@ -1,6 +1,13 @@
 # Recipe Name
 
 
+## Equipment
+Special equipment needed by the recipe, e.g. immersion blender
+
+* double boiler
+* food processor
+
+
 ## Ingredients
 Ingredients should be in the order they appear in the instructions
 Spell out cup/cups, abbreviate tbsp and tsp
