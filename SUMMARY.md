@@ -6,6 +6,7 @@
 ### Sweets
 * [butterscotch sauce](sweets/butterscotch_sauce.md)
 * [dipping chocolate w/ paraffin wax](sweets/dipping_chocolate_paraffin_wax.md)
+* [basic pie crust](sweets/pie_crust.md)
 
 ### Bread
 * [sourdough starter](bread/sourdough_starter.md)
