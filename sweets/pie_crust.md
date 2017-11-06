@@ -29,11 +29,11 @@
 ## Storage
 
 ### Refrigerator - About 3 days
-After forming dough ball (step 5 above), flatten it a bit into a approximately 1 inch disc, wrap in plastice wrap and place in refrigerator.
+After forming dough ball (step 5 above), wrap in plastice wrap and place in refrigerator.
 
 
 ### Freezer - "a long time"
-After forming dough ball (step 5 above), flatten it a bit into a approximately 1 inch disc, wrap in plastice wrap and place in refrigerator to firm up (30-60 minutes). Once dough is chilled and firm, place in plastic bag and put in freezer. Thaw overnight in the refrigerator before rolling into crust.
+After forming dough ball (step 5 above), wrap in plastice wrap and place in refrigerator to firm up (30-60 minutes). Once dough is chilled and firm, place in plastic bag and put in freezer. Thaw overnight in the refrigerator before rolling into crust.
 
 
 ## Notes
