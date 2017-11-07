@@ -49,18 +49,26 @@ This [blog post](https://www.thehealthyhomeeconomist.com/storing-sourdough-start
 ### Trial 1 - "Luna"
 Date: 11/05/2017, 6 pm
 Starter: 250g (unfiltered, mistake) water, 125g King Arthur whole wheat, 125g Pilsbury AP Flour.
-Feed: 250g water, 125g King Arthur whole wheat, 125g Pilsbury AP Flour.
+Feed: 250g water, 125g King Arthur whole wheat, 125g Pillsbury AP Flour.
+
+Date: 11/07/2017, scaled down
+Starter: 200g
+Feed: 100g water, 50g King Arthur whole wheat flour, 50g Pillsbury AP Flour
 
 #### Day 0
 Had to go buy a larger glass container because my 1 pint mason jars werent big enough. Got what I think is a half gallon mason jar, it wasnt labeled properly in the store. Still cautiously cut the recipe in half: 250g water, 125g AP flour, 125g whole wheat flour. There is still plenty of room after mixing, think for first feeding I will not discard half to bring recipe up to full strength then discard half as normal maintaining a total weight of 1000g. Also forgot to use filtered water, simply adding warm tap water. Whoops. Hopefully this wont impact taste or anything.
 
 
 #### Day 1
-Mixture very thick, seems thicker than most I see online but that is probably due to water to flour ratios or maybe it will get soupier farther in the process. Some bubbles but still pretty inactive. Mostly just smells like wet whole wheat flower, but there is a little yeasty smell. Feed at 6pm: 250g (filtered!) water, 125g AP flour, 125g whole wheat flour. No discard, total weight after feeding should be 1000g give or take. Now taking up around half my container. By the time I went to bed it had already grown noticeably by maybe a third. I wonder if it would have grown more noticeably initially if I had used filtered water instead of tap.
+Morning: Mixture very thick, seems thicker than most I see online but that is probably due to water to flour ratios or maybe it will get soupier farther in the process. Some bubbles but still pretty inactive. Mostly just smells like wet whole wheat flower, but there is a little yeasty smell.
+
+Night: Feed at 6pm. 250g (filtered!) water, 125g AP flour, 125g whole wheat flour. No discard, total weight after feeding should be 1000g give or take. Now taking up around half my container. By the time I went to bed it had already grown noticeably by maybe a third. I wonder if it would have grown more noticeably initially if I had used filtered water instead of tap.
 
 
 #### Day 2
-Woke up and whoa, its grown alot. I hope it doesnt outgrow my container. Stronger sour smell. Not overwhelming or bad, but noticeable. Undertones of yeast but faint. I dont think I need this much starter on hand, I will look up some recipes and probably scale it back.
+Morning: Woke up and whoa, its grown alot. I hope it doesnt outgrow my container. Stronger sour smell. Not overwhelming or bad, but noticeable. Undertones of yeast but faint. I dont think I need this much starter on hand, I will look up some recipes and probably scale it back.
+
+Night: Feed at 6pm. The starter shrunk back down to normal size, about half the size of the container. Interesting band of liquid in the middle of the liquid, assume this is alcohol. Mixed back together before feeding. Very strong sour smell. Not sure what is normal here, it isnt exactly sickening not rotten but it is strong. The starter is now the more soupy consistency I see online. I am scaling back the amounts significantly and moving to a new, smaller container (a 1 pint wide mouth mason jar). Total weight now is about 400g. I added 200g of the growing starter to a clean jar and then fed with 100g water, 50g whole wheat flour and 50g of AP flour. After scaling back and feeding the sour smell is much more reasonable. Need to look in to what is normal.
 
 
 ### Discarded starter recipe ideas
