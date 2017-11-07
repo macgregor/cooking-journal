@@ -1,20 +1,20 @@
 # Recipes
 
 ### Drinks
-* [Butterbeer](drinks/butterbeer.md)
+* [Butterbeer](recipes/drinks/butterbeer.md)
 
 ### Sweets
-* [butterscotch sauce](sweets/butterscotch_sauce.md)
-* [dipping chocolate w/ paraffin wax](sweets/dipping_chocolate_paraffin_wax.md)
-* [basic pie crust](sweets/pie_crust.md)
+* [butterscotch sauce](recipes/sweets/butterscotch_sauce.md)
+* [dipping chocolate w/ paraffin wax](recipes/sweets/dipping_chocolate_paraffin_wax.md)
+* [basic pie crust](recipes/sweets/pie_crust.md)
 
 ### Bread
-* [sourdough starter](bread/sourdough_starter.md)
+* [sourdough starter](recipes/bread/sourdough_starter.md)
 
 ### Pets
 
 #### Dog
-* [peanut butter birthday cake](pets/dog/peanutbutter_birthday_cake.md)
+* [peanut butter birthday cake](recipes/pets/dog/peanutbutter_birthday_cake.md)
 
 ### Cookbooks
 * [Flour, Water, Salt, Yeast - Ken Forkish](cookbooks/flour_water_salt_yeast_ken_forkish.md)

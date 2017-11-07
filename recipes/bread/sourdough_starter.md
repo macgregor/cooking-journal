@@ -40,17 +40,27 @@ This [blog post](https://www.thehealthyhomeeconomist.com/storing-sourdough-start
 
 
 ## Notes
-* this recipe uses a 1:1 ratio of water to flour. You can use any combination of flours you want to achieve different flavor profiles, just make sure they add up to the weight of water you add, e.g. 500g water and 250g bread flour + 250g whole wheat flour. Ratio applies to both initial starter and any feedings.
-* the yeast in this recipe comes from the air, the container, water, and especially your hands. This is why the initial starter is mixed by hand
+* this recipe uses a 1:1 ratio of water to flour. The ratio of flour to water is much more important than the actual amount. Scale it up or down as you need. You can use any combination of flours you want to achieve different flavor profiles, just make sure they add up to the weight of water you add, e.g. 500g water and 250g bread flour + 250g whole wheat flour. Ratio applies to both initial starter and any feedings.
+* different flours are apparently better for yeast formation and flavors. Some sources claim rye is best, some start with pure whole wheat and then switch to a 1:1 whole wheat to white mix for feeding. Will research/experiment with this further at some point in the future.
+* the yeast in this recipe comes from the air, the dry flour, the container, water, and especially your hands. basically the natural yeast all around you in your environment. This is why the initial starter is mixed by hand, to add a little extra yeast to help it get started.
+* using filtered water is important because tap water usually is chemically treated with chlorine (and probably other things) that will kill the yeast. apparently a britta filter will get that out, but I doubt it gets everything or is even that effective. It probably just gives your starter a little bit of an advantage over regular tap water. Some buy purified water to use for this. Seems like overkill.
 
-### Trial 1 - 11/05/2017, "Luna"
+
+### Trial 1 - "Luna"
+Date: 11/05/2017, 6 pm
+Starter: 250g (unfiltered, mistake) water, 125g King Arthur whole wheat, 125g Pilsbury AP Flour.
+Feed: 250g water, 125g King Arthur whole wheat, 125g Pilsbury AP Flour.
 
 #### Day 0
 Had to go buy a larger glass container because my 1 pint mason jars werent big enough. Got what I think is a half gallon mason jar, it wasnt labeled properly in the store. Still cautiously cut the recipe in half: 250g water, 125g AP flour, 125g whole wheat flour. There is still plenty of room after mixing, think for first feeding I will not discard half to bring recipe up to full strength then discard half as normal maintaining a total weight of 1000g. Also forgot to use filtered water, simply adding warm tap water. Whoops. Hopefully this wont impact taste or anything.
 
 
 #### Day 1
-Feed: 250g (filtered!) water, 125g AP flour, 125g whole wheat flour. No discard, total weight after feeding should be 1000g give or take.
+Mixture very thick, seems thicker than most I see online but that is probably due to water to flour ratios or maybe it will get soupier farther in the process. Some bubbles but still pretty inactive. Mostly just smells like wet whole wheat flower, but there is a little yeasty smell. Feed at 6pm: 250g (filtered!) water, 125g AP flour, 125g whole wheat flour. No discard, total weight after feeding should be 1000g give or take. Now taking up around half my container. By the time I went to bed it had already grown noticeably by maybe a third. I wonder if it would have grown more noticeably initially if I had used filtered water instead of tap.
+
+
+#### Day 2
+Woke up and whoa, its grown alot. I hope it doesnt outgrow my container. Stronger sour smell. Not overwhelming or bad, but noticeable. Undertones of yeast but faint. I dont think I need this much starter on hand, I will look up some recipes and probably scale it back.
 
 
 ### Discarded starter recipe ideas
