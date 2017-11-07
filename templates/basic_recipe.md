@@ -1,3 +1,5 @@
+filename: recipes/category/recipe_name.md, e.g. recipes/sweets/pie_crust.md
+
 # Recipe Name
 
 
