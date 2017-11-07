@@ -5,7 +5,7 @@
             "theme": "dark"
         },
       "gitbooks-summary-gen":{
-            "exclude": ["templates", "journal", "README.md", "SUMMARY.md"]
+            "exclude": ["templates", "journal", "README.md", "SUMMARY.md", "cookbooks"]
       }
     }
 }
