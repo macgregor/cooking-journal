@@ -7,7 +7,8 @@
       "gitbooks-summary-gen":{
             "exclude": ["templates", "README.md", "SUMMARY.md"],
             "cleanup-section-names": true,
-            "strip-numbers": true
+            "strip-numbers": true,
+            "sort-entry-by-title": true
       }
     }
 }
