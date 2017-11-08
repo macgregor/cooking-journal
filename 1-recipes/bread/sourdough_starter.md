@@ -60,23 +60,23 @@ Date: 11/08/2017, scaled up to match new target recipe above
 * Starter: 250g
 * Feed: 125g water, 62g King Arthur whole wheat flour, 62g Pillsbury AP Flour
 
-#### Day 0
+#### Day 1
 Had to go buy a larger glass container because my 1 pint mason jars werent big enough. Got what I think is a half gallon mason jar, it wasnt labeled properly in the store. Still cautiously cut the recipe in half: 250g water, 125g AP flour, 125g whole wheat flour. There is still plenty of room after mixing, think for first feeding I will not discard half to bring recipe up to full strength then discard half as normal maintaining a total weight of 1000g. Also forgot to use filtered water, simply adding warm tap water. Whoops. Hopefully this wont impact taste or anything.
 
 
-#### Day 1
+#### Day 2
 Morning: Mixture very thick, seems thicker than most I see online but that is probably due to water to flour ratios or maybe it will get soupier farther in the process. Some bubbles but still pretty inactive. Mostly just smells like wet whole wheat flower, but there is a little yeasty smell.
 
 Night: Feed at 6pm. 250g (filtered!) water, 125g AP flour, 125g whole wheat flour. No discard, total weight after feeding should be 1000g give or take. Now taking up around half my container. By the time I went to bed it had already grown noticeably by maybe a third. I wonder if it would have grown more noticeably initially if I had used filtered water instead of tap.
 
 
-#### Day 2
+#### Day 3
 Morning: Woke up and whoa, its grown alot. I hope it doesnt outgrow my container. Stronger sour smell. Not overwhelming or bad, but noticeable. Undertones of yeast but faint. I dont think I need this much starter on hand, I will look up some recipes and probably scale it back.
 
 Night: Feed at 6pm. The starter shrunk back down to normal size, about half the size of the container. Interesting band of liquid in the middle of the liquid, assume this is alcohol. Mixed back together before feeding. Very strong sour smell. Not sure what is normal here, it isnt exactly sickening not rotten but it is strong. The starter is now the more soupy consistency I see online. I am scaling back the amounts significantly and moving to a new, smaller container (a 1 pint wide mouth mason jar). Total weight now is about 400g. I added 200g of the growing starter to a clean jar and then fed with 100g water, 50g whole wheat flour and 50g of AP flour. Going to update recipe to target a 500g starter. After scaling back and feeding the sour smell is much more reasonable. Need to look in to what is normal.
 
 
-#### Day 3
+#### Day 4
 Morning: Looking good. Didnt bloom up like it did after the first feeding. Im assuming that was due to some giant burst of activity producing lots of gas and its not something that happens every time you feed. There is a pronounced sour smell but it isnt as powerful as yesterday evening before I fed and scaled it back. This could be from simply having less volume of starter now. Film of liquid on top, this is called hooch in sourdough circles. Hooch is common and fine when activating a starter but you shouldnt have any if you properly maintain your starter after activating. I've been mixing it back in before feeding, which is normal. If there is alot I may discard it.
 
 Night: Feed at 6pm. Scaling up slightly to hit my new recipe target weight of 500g total starter, currently it is at approximately 400g. Remove 150g starter, add 125g filtered water, 62g whole wheat flour, 62g AP flour.
