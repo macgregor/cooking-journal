@@ -2,7 +2,7 @@
 
 
 ## Equipment
-* large glass container (I use a 1 pint wide mouth mason jar)
+* large glass container (I use a 1 quart wide mouth mason jar)
 
 
 ## Ingredients
@@ -44,42 +44,49 @@ This [blog post](https://www.thehealthyhomeeconomist.com/storing-sourdough-start
 * different flours are apparently better for yeast formation and flavors. Some sources claim rye is best, some start with pure whole wheat and then switch to a 1:1 whole wheat to white mix for feeding. Will research/experiment with this further at some point in the future.
 * the yeast in this recipe comes from the air, the dry flour, the container, water, and especially your hands. basically the natural yeast all around you in your environment. This is why the initial starter is mixed by hand, to add a little extra yeast to help it get started.
 * using filtered water is important because tap water usually is chemically treated with chlorine (and probably other things) that will kill the yeast. apparently a britta filter will get that out, but I doubt it gets everything or is even that effective. It probably just gives your starter a little bit of an advantage over regular tap water. Some buy purified water to use for this. Seems like overkill.
-* [hooch](https://www.sourdoughhome.com/index.php?content=hooch) is a possible by product of your sourdough starter. It is common and ok when activating your starter but you probably shouldnt see any when you are maintaing it over long periods. Hooch during maintenance is a sign that you arent feeding your starter enough. The 1:1 flour to water ratio in this recipe should prevent hooch during maintenance if you feed it regularly and often enough.
+* [hooch](https://www.sourdoughhome.com/index.php?content=hooch) is a possible by product of your sourdough starter. It is common and ok when activating your starter but you probably shouldn't see any when you are maintaining it over long periods. Hooch during maintenance is a sign that you aren't feeding your starter enough. The 1:1 flour to water ratio in this recipe should prevent hooch during maintenance if you feed it regularly and often enough.
 
 
 ### Trial 1 - "Luna"
-Date: 11/05/2017, 6 pm.
-* Starter: 250g (unfiltered, mistake) water, 125g King Arthur whole wheat, 125g Pilsbury AP Flour.
-* Feed: 250g water, 125g King Arthur whole wheat, 125g Pillsbury AP Flour.
+**Date**: 11/05/2017, 6 pm.
+* **Starter**: 250g (unfiltered, mistake) water, 125g King Arthur whole wheat, 125g Pillsbury AP Flour.
+* **Feed**: 250g water, 125g King Arthur whole wheat, 125g Pillsbury AP Flour.
 
-Date: 11/07/2017, scaled down to fit in smaller container
-* Starter: 200g
-* Feed: 100g water, 50g King Arthur whole wheat flour, 50g Pillsbury AP Flour
+**Date**: 11/07/2017, scaled down to fit in smaller container
+* **Starter**: 200g
+* **Feed**: 100g water, 50g King Arthur whole wheat flour, 50g Pillsbury AP Flour
 
-Date: 11/08/2017, scaled up to match new target recipe above
-* Starter: 250g
-* Feed: 125g water, 62g King Arthur whole wheat flour, 62g Pillsbury AP Flour
+**Date**: 11/08/2017, scaled up to match new target recipe above
+* **Starter**: 250g
+* **Feed**: 125g water, 62g King Arthur whole wheat flour, 62g Pillsbury AP Flour
 
 #### Day 1
-Had to go buy a larger glass container because my 1 pint mason jars werent big enough. Got what I think is a half gallon mason jar, it wasnt labeled properly in the store. Still cautiously cut the recipe in half: 250g water, 125g AP flour, 125g whole wheat flour. There is still plenty of room after mixing, think for first feeding I will not discard half to bring recipe up to full strength then discard half as normal maintaining a total weight of 1000g. Also forgot to use filtered water, simply adding warm tap water. Whoops. Hopefully this wont impact taste or anything.
+Had to go buy a larger glass container because my 1 quart mason jars weren't big enough. Got what I think is a half gallon mason jar, it wasn't labeled properly in the store. Still cautiously cut the recipe in half: 250g water, 125g AP flour, 125g whole wheat flour. There is still plenty of room after mixing, think for first feeding I will not discard half to bring recipe up to full strength then discard half as normal maintaining a total weight of 1000g. Also forgot to use filtered water, simply adding warm tap water. Whoops. Hopefully this wont impact taste or anything.
 
 
 #### Day 2
-Morning: Mixture very thick, seems thicker than most I see online but that is probably due to water to flour ratios or maybe it will get soupier farther in the process. Some bubbles but still pretty inactive. Mostly just smells like wet whole wheat flower, but there is a little yeasty smell.
+**Morning**: Mixture very thick, seems thicker than most I see online but that is probably due to water to flour ratios or maybe it will get soupier farther in the process. Some bubbles but still pretty inactive. Mostly just smells like wet whole wheat flower, but there is a little yeasty smell.
 
-Night: Feed at 6pm. 250g (filtered!) water, 125g AP flour, 125g whole wheat flour. No discard, total weight after feeding should be 1000g give or take. Now taking up around half my container. By the time I went to bed it had already grown noticeably by maybe a third. I wonder if it would have grown more noticeably initially if I had used filtered water instead of tap.
+**Night**: Feed at 6pm. 250g (filtered!) water, 125g AP flour, 125g whole wheat flour. No discard, total weight after feeding should be 1000g give or take. Now taking up around half my container. By the time I went to bed it had already grown noticeably by maybe a third. I wonder if it would have grown more noticeably initially if I had used filtered water instead of tap.
 
 
 #### Day 3
-Morning: Woke up and whoa, its grown alot. I hope it doesnt outgrow my container. Stronger sour smell. Not overwhelming or bad, but noticeable. Undertones of yeast but faint. I dont think I need this much starter on hand, I will look up some recipes and probably scale it back.
+**Morning**: Woke up and whoa, its grown alot. I hope it doesn't outgrow my container. Stronger sour smell. Not overwhelming or bad, but noticeable. Undertones of yeast but faint. I don't think I need this much starter on hand, I will look up some recipes and probably scale it back.
 
-Night: Feed at 6pm. The starter shrunk back down to normal size, about half the size of the container. Interesting band of liquid in the middle of the liquid, assume this is alcohol. Mixed back together before feeding. Very strong sour smell. Not sure what is normal here, it isnt exactly sickening not rotten but it is strong. The starter is now the more soupy consistency I see online. I am scaling back the amounts significantly and moving to a new, smaller container (a 1 pint wide mouth mason jar). Total weight now is about 400g. I added 200g of the growing starter to a clean jar and then fed with 100g water, 50g whole wheat flour and 50g of AP flour. Going to update recipe to target a 500g starter. After scaling back and feeding the sour smell is much more reasonable. Need to look in to what is normal.
+**Night**: Feed at 6pm. The starter shrunk back down to normal size, about half the size of the container. Interesting band of liquid in the middle of the liquid, assume this is alcohol. Mixed back together before feeding. Very strong sour smell. Not sure what is normal here, it isn't exactly sickening not rotten but it is strong. The starter is now the more soupy consistency I see online. I am scaling back the amounts significantly and moving to a new, smaller container (a 1 quart wide mouth mason jar). Total weight now is about 400g. I added 200g of the growing starter to a clean jar and then fed with 100g water, 50g whole wheat flour and 50g of AP flour. Going to update recipe to target a 500g starter. After scaling back and feeding the sour smell is much more reasonable. Need to look in to what is normal.
 
 
 #### Day 4
-Morning: Looking good. Didnt bloom up like it did after the first feeding. Im assuming that was due to some giant burst of activity producing lots of gas and its not something that happens every time you feed. There is a pronounced sour smell but it isnt as powerful as yesterday evening before I fed and scaled it back. This could be from simply having less volume of starter now. Film of liquid on top, this is called hooch in sourdough circles. Hooch is common and fine when activating a starter but you shouldnt have any if you properly maintain your starter after activating. I've been mixing it back in before feeding, which is normal. If there is alot I may discard it.
+**Morning**: Looking good. Didn't bloom up like it did after the first feeding. Im assuming that was due to some giant burst of activity producing lots of gas and its not something that happens every time you feed. There is a pronounced sour smell but it isn't as powerful as yesterday evening before I fed and scaled it back. This could be from simply having less volume of starter now. Film of liquid on top, this is called hooch in sourdough circles. Hooch is common and fine when activating a starter but you shouldn't have any if you properly maintain your starter after activating. I've been mixing it back in before feeding, which is normal. If there is alot I may discard it.
 
-Night: Feed at 6pm. Scaling up slightly to hit my new recipe target weight of 500g total starter, currently it is at approximately 400g. Remove 150g starter, add 125g filtered water, 62g whole wheat flour, 62g AP flour.
+**Night**: Feed at 6pm. Not much change since morning, a little more hooch and a slightly stronger sour smell. It got a little cold while I was at work. About 62 degrees when I got home, probably colder, that might have impeded growth. Scaling up slightly to hit my new recipe target weight of 500g total starter, currently it is at approximately 400g. Remove 150g starter (250g starter remaining), add 125g filtered water, 62g whole wheat flour, 62g AP flour.
+
+
+#### Day 5
+**Morning**: Im starting to worry Luna is dead, or at least not very active for some reason. Looking the same as yesterday morning, not very bubbly, hooch on top, same size. Ive been doing some research and it may not be hooch (alcohol) on top. It could just be water separating from the flour. It seems like this happens more commonly when you add too much water. Since I am weighing my ingredients and not using volume cups, this shouldn't really be the case. Need to taste it when I get home. As for whether or not it is dead, reading [this](http://www.thefreshloaf.com/node/10359/discouraged-southeast#comment-54426) makes me think it is simply developing slowly due to the temperature of my kitchen:
+> When using just flour and water, many will grow a gas-producing bacterium that slows down the process. It can raise the starter to three and a half times its volume in a relatively short period -- something to behold. But not to worry; it is harmless. In fact, this bacterium is used in other food fermentations like cheeses and vegetables, and it is all around us in the environment, including wheat fields and flour. It does not grow at a pH less than 4.8, and the specified fruit juices serve to keep the pH low enough to by-pass it. Things will still progress, but this is the point at which people get frustrated and quit, because when the pH drops below 4.8, and it will, the gassy bacteria stop growing. It will appear that the "yeast" died on you, when in fact, you haven't begun to grow yeast yet. But they will come -- really, they're already there. When the pH drops below 3.5 - 4 or so, the yeast will activate, begin to grow, and the starter will expand again. You just need to keep it fed and cared for until then.
+
+Will continue to feed as normal until the weekend before giving up and starting over.
 
 
 ### Discarded starter recipe ideas
@@ -99,3 +106,4 @@ Night: Feed at 6pm. Scaling up slightly to hit my new recipe target weight of 50
 * [Maintaining your sourdough starter](https://blog.kingarthurflour.com/2012/04/08/maintaining-your-sourdough-starter-food-water-and-time/) - nice blog on storing, maintaining and "troubleshooting" your starter.
 * [How to Grow, Keep and Use a Sourdough Starter](https://anoregoncottage.com/grow-keep-use-sourdough-starter/) - nice overview and journal of starting a sourdough starter, also has some recipe ideas.
 * [Sourdough Home](https://www.sourdoughhome.com/index.php) - I like this site, the guy seems to know his stuff and its not full of fluff.
+* [Sourdough Starter, Step-by-Step & Side-by-Side: Intro](http://yumarama.com/968/starter-from-scratch-intro/) - this is a blog series that follows [Debra Wink's](http://www.thefreshloaf.com/node/10359/discouraged-southeast#comment-54426) guide. Debra is a microbiologist who goes into some details about what is going on during the process of starting and maintaining your starter. Really good info in here if you read it all. It uses an acidic fruit juice (pineapple) to jump start the starter, then switches to water. Will try this with trial 2.
