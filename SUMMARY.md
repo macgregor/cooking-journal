@@ -18,6 +18,7 @@
 * [Basic Pie Crust](1-recipes/sweets/pie_crust.md)
 * [Butterscotch Sauce](1-recipes/sweets/butterscotch_sauce.md)
 * [Dipping Chocolate w/ paraffin wax](1-recipes/sweets/dipping_chocolate_paraffin_wax.md)
+* [Pecan Pie](1-recipes/sweets/pecan_pie.md)
 
 ## Cookbooks
 * [Flour, Water, Salt, Yeast: The Fundamentals of Artisan Bread and Pizza - Ken Forkish](2-cookbooks/flour_water_salt_yeast_ken_forkish.md)
@@ -26,6 +27,10 @@
 * [Veganomicon: The Ultimate Vegan Cookbook - Isa Chandra Moskowitz](2-cookbooks/veganomicon_isa_moskowitz.md)
 
 ## Journal
+
+### Projects
+* [Creating a Sourdough Starter Recipe](3-journal/1-projects/sourdough_starter_experiments.md)
+* [Quest for the Perfect Pie Crust](3-journal/1-projects/pie_crust_quest.md)
 
 ### 2017
 
