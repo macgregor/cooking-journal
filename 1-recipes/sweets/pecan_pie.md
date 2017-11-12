@@ -22,7 +22,7 @@
 
 ## Instructions
 1. Preheat oven to 350 degrees
-2. Pre-bake pie crust until golden brown according to instructions in the recipe.
+2. Prebake pie crust until golden brown according to instructions in the recipe.
 3. Toast pecans in the oven at 350 degrees for 5 - 8 minutes, be careful not to burn them.
 4. In a saucepan combine the 5 tbsp vegan butter, 1 cup brown sugar, 3/4 cup corn syrup, and 4 tbsp corn starch. Stir and cook over medium heat until it comes to a boil. Reduce to a simmer and cook for another minute. Add the 1/2 tsp salt, and 2 tsp vanilla and stir to combine.
 5. In a food processor, add 1 cup silken tofu and pulse until smooth. Add the corn syrup mixture and pulse again until everything is combined. Add the pecans (reserving about 20 - 50 for the top) and use a spatula to stir them into the filling. Arrange the reserved pecans on top of the pie.

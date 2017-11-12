@@ -54,7 +54,7 @@ I kept more detailed notes on some of my experiments with different recipes whil
 ### Discarded starter recipe ideas
 * [sourdough starter scallion pancakes (YouTube)](https://www.youtube.com/watch?v=vVx2oFFptG0)
 * [pizza dough](https://www.kingarthurflour.com/recipes/sourdough-pizza-crust-recipe)
-* [cinnamon-apple flatbread](https://www.kingarthurflour.com/recipes/cinnamon-apple-flatbread-recipe) - uses dairy
+* [cinnamon-apple flat bread](https://www.kingarthurflour.com/recipes/cinnamon-apple-flatbread-recipe) - uses dairy
 * [waffle or pancake batter](https://www.kingarthurflour.com/recipes/cinnamon-apple-flatbread-recipe) - uses dairy
 * [sourdough naan](http://www.mykitchenaddiction.com/2011/04/sourdough-naan/) - uses dairy
 * [sourdough popovers](https://blog.kingarthurflour.com/2012/12/03/sourdough-popovers-high-wide-and-handsome/) - lots of dairy

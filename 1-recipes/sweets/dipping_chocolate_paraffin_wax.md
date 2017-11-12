@@ -39,7 +39,7 @@
 * supposedly you can use [cocoa butter](http://www.chefeddy.com/2010/03/temper-or-pre-crystallize-chocolate-using-cocoa-butter/) or [shortening](http://www.geniuskitchen.com/recipe/perfect-dipping-chocolate-199367) instead of wax to similar effect.
 
 ### Trial 1
-There were a few chunks of unmelted paraffin wax in the final melted chocolate product. It did'nt get in the way in the end but was annoying. Not sure why this happened yet. Might try melting chocolate and paraffin in separate pans and mixing them together next time. The chocolate had a nice bright sheen, but still melted rather easily in your hands. Ended up keeping them chilled to prevent melting. Wax might not have been distributed well, or maybe I just used crappy chocolate or the method is flawed.
+There were a few chunks of unmelted paraffin wax in the final melted chocolate product. It didn't get in the way in the end but was annoying. Not sure why this happened yet. Might try melting chocolate and paraffin in separate pans and mixing them together next time. The chocolate had a nice bright sheen, but still melted rather easily in your hands. Ended up keeping them chilled to prevent melting. Wax might not have been distributed well, or maybe I just used crappy chocolate or the method is flawed.
 
 
 ## Sources

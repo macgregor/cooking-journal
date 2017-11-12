@@ -2,7 +2,7 @@
 
 
 ## Trial 1 - "Luna"
-My first attempt. I learned alot. I started out by following a recipe I put together based mostly on [How to make a sourdough starter by Jacob Burton](https://stellaculinary.com/cooking-videos/stella-bread/sb-003-how-make-sourdough-starter) with some techniques thrown in from a few other sources. The amounts originally were enormous and I scaled them up or down a few times. It also got fairly cold around day 4. I think these variations played a part in the slow start.
+My first attempt. I learned a lot. I started out by following a recipe I put together based mostly on [How to make a sourdough starter by Jacob Burton](https://stellaculinary.com/cooking-videos/stella-bread/sb-003-how-make-sourdough-starter) with some techniques thrown in from a few other sources. The amounts originally were enormous and I scaled them up or down a few times. It also got fairly cold around day 4. I think these variations played a part in the slow start.
 
 
 **Date**: 11/05/2017, 6 pm.
@@ -28,13 +28,13 @@ Had to go buy a larger glass container because my 1 quart mason jars weren't big
 
 
 ### Day 3
-**Morning**: Woke up and whoa, its grown alot (note: in retrospect this is almost certainly a "false raise" from Leuconostoc bacteria that is a precursor to the yeast we want). I hope it doesn't outgrow my container. Stronger sour smell. Not overwhelming or bad, but noticeable. Undertones of yeast but faint. I don't think I need this much starter on hand, I will look up some recipes and probably scale it back.
+**Morning**: Woke up and whoa, its grown a lot (note: in retrospect this is almost certainly a "false raise" from Leuconostoc bacteria that is a precursor to the yeast we want). I hope it doesn't outgrow my container. Stronger sour smell. Not overwhelming or bad, but noticeable. Undertones of yeast but faint. I don't think I need this much starter on hand, I will look up some recipes and probably scale it back.
 
 **Night**: Feed at 6 pm. The starter shrunk back down to normal size, about half the size of the container. Interesting band of liquid in the middle of the liquid, assume this is alcohol. Mixed back together before feeding. Very strong sour smell. Not sure what is normal here, it isn't exactly sickening not rotten but it is strong. The starter is now the more soupy consistency I see online. I am scaling back the amounts significantly and moving to a new, smaller container (a 1 quart wide mouth mason jar). Total weight now is about 400 g. I added 200 g of the growing starter to a clean jar and then fed with 100 g water, 50 g whole wheat flour and 50 g of AP flour. Going to update recipe to target a 500 g starter. After scaling back and feeding the sour smell is much more reasonable. Need to look in to what is normal.
 
 
 ### Day 4
-**Morning**: Looking good. Didn't bloom up like it did after the first feeding. I'm assuming that was due to some giant burst of activity producing lots of gas and its not something that happens every time you feed. There is a pronounced sour smell but it isn't as powerful as yesterday evening before I fed and scaled it back. This could be from simply having less volume of starter now. Film of liquid on top, this is called hooch in sourdough circles. Hooch is common and fine when activating a starter but you shouldn't have any if you properly maintain your starter after activating. I've been mixing it back in before feeding, which is normal. If there is alot I may discard it.
+**Morning**: Looking good. Didn't bloom up like it did after the first feeding. I'm assuming that was due to some giant burst of activity producing lots of gas and its not something that happens every time you feed. There is a pronounced sour smell but it isn't as powerful as yesterday evening before I fed and scaled it back. This could be from simply having less volume of starter now. Film of liquid on top, this is called hooch in sourdough circles. Hooch is common and fine when activating a starter but you shouldn't have any if you properly maintain your starter after activating. I've been mixing it back in before feeding, which is normal. If there is a lot I may discard it.
 
 **Night**: Feed at 6 pm. Not much change since morning, a little more hooch and a slightly stronger sour smell. It got a little cold while I was at work. About 62 degrees when I got home, probably colder, that might have impeded growth. Scaling up slightly to hit my new recipe target weight of 500 g total starter, currently it is at approximately 400 g. Remove 150 g starter (250 g starter remaining), add 125 g filtered water, 62 g whole wheat flour, 62 g AP flour.
 
@@ -45,13 +45,13 @@ Had to go buy a larger glass container because my 1 quart mason jars weren't big
 
 Will continue to feed as normal until the weekend before giving up and starting over.
 
-**Night**: Feed at 6 pm. Remove 250 g starter, feed with 125 g filtered water, 62 g whole wheat flour, 62 g AP flour. Still seems inavtive. Same hooch, same smell. After reading some blogs and forums I am going to keep feeding this one a little longer while also starting my second trial.
+**Night**: Feed at 6 pm. Remove 250 g starter, feed with 125 g filtered water, 62 g whole wheat flour, 62 g AP flour. Still seems inactive. Same hooch, same smell. After reading some blogs and forums I am going to keep feeding this one a little longer while also starting my second trial.
 
 ### Day 6
-No change. Smells bad. No bubbles as far as I can tell. Im calling it, Luna is officially dead.
+No change. Smells bad. No bubbles as far as I can tell. I'm calling it, Luna is officially dead.
 
 ### Postmortem
-Im not entirely sure why Luna didnt make it. My best guess is poor planning and too many changing variables. I scaled the volume of starter up and down 3 times to adjust to different container sizes. My original recipe created far too much starter. While I think I kept all the ratios the same and it should have been fine, the stress might have caused problems. There was also a temperature drop on day 4 that wouldnt have helped. I believe the rise I saw on day 3 was a false rise caused by some bacteria that activate before the yeast can. This is pretty common and normally the yeast will active a few days later with regular feeding. Something happened after day 3 that prevented yeast from activating. I also didnt do a good job keeping the sides of the container clean after feeding. Not from lack of trying, my containers didnt lend themselves well to the job.
+I'm not entirely sure why Luna didn't make it. My best guess is poor planning and too many changing variables. I scaled the volume of starter up and down 3 times to adjust to different container sizes. My original recipe created far too much starter. While I think I kept all the ratios the same and it should have been fine, the stress might have caused problems. There was also a temperature drop on day 4 that wouldn't have helped. I believe the rise I saw on day 3 was a false rise caused by some bacteria that activate before the yeast can. This is pretty common and normally the yeast will active a few days later with regular feeding. Something happened after day 3 that prevented yeast from activating. I also didn't do a good job keeping the sides of the container clean after feeding. Not from lack of trying, my containers didn't lend themselves well to the job.
 
 Lessons learned:
 * be prepared and be consistent - I suffered from not fully planning what I was doing. Scaling the recipe up and down, changing containers, forgetting about filtered water...I think Luna suffered for it.
