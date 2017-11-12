@@ -6,16 +6,16 @@ My first attempt. I learned alot. I started out by following a recipe I put toge
 
 
 **Date**: 11/05/2017, 6 pm.
-* **Starter**: 250 g (unfiltered, mistake) water, 125 g King Arthur whole wheat, 125 g Pillsbury AP Flour.
-* **Feed**: 250 g water, 125 g King Arthur whole wheat, 125 g Pillsbury AP Flour.
+* **Starter**: 250 g (unfiltered, mistake) water, 125 g King Arthur whole wheat, 125 g Gold Medal AP Flour.
+* **Feed**: 250 g water, 125 g King Arthur whole wheat, 125 g Gold Medal AP Flour.
 
 **Date**: 11/07/2017, scaled down to fit in smaller container
 * **Starter**: 200 g
-* **Feed**: 100 g water, 50 g King Arthur whole wheat flour, 50 g Pillsbury AP Flour
+* **Feed**: 100 g water, 50 g King Arthur whole wheat flour, 50 g Gold Medal AP Flour
 
 **Date**: 11/08/2017, scaled up to match new target recipe above
 * **Starter**: 250 g
-* **Feed**: 125 g water, 62 g King Arthur whole wheat flour, 62 g Pillsbury AP Flour
+* **Feed**: 125 g water, 62 g King Arthur whole wheat flour, 62 g Gold Medal AP Flour
 
 ### Day 1
 Had to go buy a larger glass container because my 1 quart mason jars weren't big enough. Got what I think is a half gallon mason jar, it wasn't labeled properly in the store. Still cautiously cut the recipe in half: 250 g water, 125 g AP flour, 125 g whole wheat flour. There is still plenty of room after mixing, think for first feeding I will not discard half to bring recipe up to full strength then discard half as normal maintaining a total weight of 1000 g. Also forgot to use filtered water, simply adding warm tap water. Whoops. Hopefully this wont impact taste or anything.
@@ -69,7 +69,7 @@ Changes:
 * 100% whole wheat starter before discard + feed stage - whole wheat seems to have more stuff yeast needs to get going so I am going to start with 100% whole wheat for the first 3 days. When we get to discard + feed I will switch to a 50/50 mix of whole wheat and AP flour.
 * do a better job at keeping the container clean - I struggled to scrape down the sides of the larger containers when making Luna. With the smaller containers I should be able to keep the sides clean easier which will help prevent mold forming.
 * room temperature filtered water - I am keeping a jar full of filtered water at room temperature to use for feeding. Before I was adding warm water to my Britta pitcher and using what I needed. Beside being a pain in the ass, it also meant the temperature was uncontrollable.
-* same brand flour - coincidentally I am nearly our of the Pillsbury flour and picked up a bag of King Arthur Bread Flour. So now I'm all King Arthur. I've only briefly read about how flour affects the bread you make, need to do more research, but King Arthur seems widely well regarded.
+* same brand flour - coincidentally I am nearly our of the Gold Medal flour and picked up a bag of King Arthur Bread Flour. So now I'm all King Arthur. I've only briefly read about how flour affects the bread you make, need to do more research, but King Arthur seems widely well regarded.
 
 **Date**: 11/10/2017, 6 pm
 * Fred - water
@@ -88,3 +88,5 @@ True to form, both Fred and George look very pasty. They seem identical except t
 
 ### Day 2
 **Morning**: No change. Pasty, smell like pineapple or wet flour respectively. To be expected. Hoping to see a little activity after tonights feeding.
+
+**Night**: First feeding! 15 g whole wheat flour + 15 g water/ pineapple juice as appropriate. No activity I can see. Fred is starting to get a little smelly but not very much. George still smelling like a little sweetie. I spent a good bit of the day cooking so the kitchen was a bit warm. Shouldn't be a problem, just making note of it. 
