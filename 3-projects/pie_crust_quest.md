@@ -1,7 +1,7 @@
 # Quest for the Perfect Pie Crust
 
 ## Trial 1
-[Recipe](../../1-recipes/sweets/pie_crust.md) - git hash a3a73c72955298f871157da0849e171cbffb6d13.
+[Recipe](../1-recipes/sweets/pie_crust.md) - git hash a3a73c72955298f871157da0849e171cbffb6d13.
 
 Made full recipe for 2 crusts. My "food processor" (a ninja blender with a food processor bowl/blade) was a little small so I had to add butter and flour in pieces. I might have over processed the dough a little bit, it looked smoother and less clumpy than most pictures or videos I see. I ended up letting the dough rest for a couple hours after mixing in the butter but before adding water. I was cooking lunch and dinner at the same time and overwhelmed myself a bit. It should be fine though. Added about 4 tbsp of cold water, shaped it into discs and let rest in fridge for 3 to 4 hours. The dough weren't quite even and neither was enough to fill my pie pans. Need to add more flour next time. Also when rolling, the edges cracked quite a bit and fell apart easily when moving to pie pan. I'm looking up reasons why and it seems that it can be almost anything, no enough mixing, too much mixing, too little water, not letting it come up in temperature before rolling. Too many things to narrow it down without more tests. I'm docking the nicer looking crust and not docking the other to experiment with what happens if you don't dock.
 

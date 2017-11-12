@@ -47,7 +47,7 @@ This [blog post](https://www.thehealthyhomeeconomist.com/storing-sourdough-start
 * [hooch](https://www.sourdoughhome.com/index.php?content=hooch) is a possible by product of your sourdough starter. It is common and ok when activating your starter but you probably shouldn't see any when you are maintaining it over long periods. Hooch during maintenance is a sign that you aren't feeding your starter enough. The 1:1 flour to water ratio in this recipe should prevent hooch during maintenance if you feed it regularly and often enough. You can also simply get separation of water and flour if you use too much water, again weighing the amount of water you add should prevent this.
 
 ### Experiments
-I kept more detailed notes on some of my experiments with different recipes while tuning this one. You can read there [here](../../3-journal/1-projects/sourdough_starter_experiments.md).
+I kept more detailed notes on some of my experiments with different recipes while tuning this one. You can read there [here](../../3-projects/sourdough_starter_experiments.md).
 
 
 

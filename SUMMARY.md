@@ -26,13 +26,16 @@
 * [Vegan Richa's Indian Kitchen: Traditional and Creative Recipes for the Home Cook - Richa Hingle](2-cookbooks/vegan_richas_indian_kitchen_richa_hingle.md)
 * [Veganomicon: The Ultimate Vegan Cookbook - Isa Chandra Moskowitz](2-cookbooks/veganomicon_isa_moskowitz.md)
 
-## Journal
+## Projects
+* [Creating a Sourdough Starter Recipe](3-projects/sourdough_starter_experiments.md)
+* [Quest for the Perfect Pie Crust](3-projects/pie_crust_quest.md)
 
-### Projects
-* [Creating a Sourdough Starter Recipe](3-journal/1-projects/sourdough_starter_experiments.md)
-* [Quest for the Perfect Pie Crust](3-journal/1-projects/pie_crust_quest.md)
+## Techniques
+Coming soon
+
+## Journal
 
 ### 2017
 
 #### November
-* [Week 2 - Nov 5, 2017 to Nov 11, 2017](3-journal/2017/11-November/05_nov_2017_to_11_nov_2017.md)
+* [Week 2 - Nov 5, 2017 to Nov 11, 2017](5-journal/2017/11-November/05_nov_2017_to_11_nov_2017.md)

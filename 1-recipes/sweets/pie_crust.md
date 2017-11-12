@@ -11,18 +11,18 @@
 * 1/2 teaspoon salt
 * 1 1/2 tbsp sugar
 * 113 g (1/2 cup, 1 sticks) vegan butter, well-chilled and cut into cubes
-* About 1/4 cup plus 2 tablespoons ice water
+* About 1/4 cup plus 2 tablespoons ice water as needed
 
 
 ## Instructions
 1. Pour two thirds (120 g, 1 cup) flour, 1/2 tsp salt, and 1 1/2 tbsp sugar into a food processor and pulse until combined, about 2 seconds.
 2. Add 113 g (1/2 cup) vegan butter and pulse until dough collects in clumps, about 15 seconds.
 3. Add remaining 60 g (1/2 cup) of flour and pulse until mixture is evenly distributed (4 to 6 quick pulses). Empty mixture into a medium bowl. If dough has warmed up too much, refrigerate for 10-15 minutes before continuing.
-4. Add 1/4 cup water, fold into dough with a spatula (or by hand) until dough is slightly tacky and sticks together. Dough should look shaggy but form together into a ball easily. If you need extra water add it 1 tbsp at a time. Don't over hydrate or over mix.
-5. Divide dough into two even balls and flatten each into 4-inch disk. Wrap each in plastic wrap and refrigerate at least 30 minutes. At this point you can store dough for later use (see below) or continue.
+4. Add 1/4 cup water, mix together with a fork until dough is slightly tacky and sticks together. Dough should look shaggy but form together into a ball easily. If you need extra water add it 1 tbsp at a time. Don't over hydrate or over mix.
+5. Kneed once and form a ball, flatten each into 4-inch disk or puck shape. Wrap plastic wrap and refrigerate at least 30 minutes. At this point you can store dough for later use (see below) or continue.
 6. Remove the dough from the fridge. Let it rest at room temperature for 10 to 15 minutes before rolling, to allow the butter to soften up a bit.
-7. Flour your work surface and rolling pin. Roll the dough to the size needed (about 12" for a 9" pie, use your pie pan as a reference). Place it in a pie pan. Trim crust to fit pie or optionally make a [decorative edge](http://www.recipetips.com/kitchen-tips/t--813/decorative-pie-crust-edges.asp)
-8. (Optional) Blind bake pie crust - if your recipe calls for prebaked (blind baked crust). Preheat oven to 350 degrees. Line the pastry with parchment paper or aluminum foil; fill with pie weights, dried beans or sugar. Bake until pastry begins to color around the edges, about 30 minutes. Cool completely before use.
+7. [Roll out the dough](https://smittenkitchen.com/2008/11/pie-crust-103-rolling-and-crimping/) - Flour your work surface and rolling pin. Starting from the center of the dough, roll out gently several times. Rotate the dough a quarter turn, if it wants to stick add a little more flour. Continue until the dough is the desired diameter and thickness, about 1/8th inch thick and 12" in diameter for a 9" pie, use your pie pan as a reference. Place it in a pie pan. Trim crust to fit pie or optionally make a [decorative edge](http://www.recipetips.com/kitchen-tips/t--813/decorative-pie-crust-edges.asp)
+8. (Optional) [Blind bake pie crust](http://www.seriouseats.com/2015/11/how-to-make-a-perfect-apple-pie-step-by-step.html) - if your recipe calls for prebaked (blind baked crust). Preheat oven to 350 degrees. Line the pastry with parchment paper or aluminum foil; fill with pie weights, dried beans or sugar. Bake until pastry begins to color around the edges, about 30 minutes. Cool completely before use.
 
 
 ## Storage
@@ -42,14 +42,12 @@ After forming dough ball (step 5 above), wrap in plastic wrap and place in refri
 * [blind baking the crust](https://blog.kingarthurflour.com/2015/11/23/blind-bake-pie-crust/) may not be desired depending on what kind of pie you are making. Check your recipe to be sure so you don't undercook or overcook your pie crust.
 
 ### Experiments
-[Quest for the Perfect Pie Crust](../../3-journal/1-projects/pie_crust_quest.md).
+[Quest for the Perfect Pie Crust](../../3-projects/pie_crust_quest.md).
 
 
 ## Sources
 * [The Food Lab: The Science of Pie Dough](http://sweets.seriouseats.com/2011/07/the-food-lab-the-science-of-pie-how-to-make-pie-crust-easy-recipe.html)
-* [Decorative Pie Crust Edges](http://www.recipetips.com/kitchen-tips/t--813/decorative-pie-crust-edges.asp)
 * [let them eat pie: an instructional series](http://www.thejoykitchen.com/ingredients-techniques/let-them-eat-pie-instructional-series)
 * [How to Make Foolproof Flaky Vegan Pie Crust](https://namelymarly.com/how-to-make-foolproof-flaky-vegan-pie-crust/)
 * [Ingredient Weight Chart](https://www.kingarthurflour.com/learn/ingredient-weight-chart.html) - convert volume to weight (e.g. cup to grams)
-* [Master Blind-Baked Pie Crust With These 6 Simple Tips - Stella Parks](http://www.seriouseats.com/2015/11/how-to-make-a-perfect-apple-pie-step-by-step.html)
 * [How to Keep Your Pie Dough from Cracking (when you roll it) - Ken Haedrich](http://thepieacademy.com/how-to-keep-your-pie-dough-from-cracking-when-you-roll-it-video-lesson/)

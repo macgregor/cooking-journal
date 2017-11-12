@@ -89,4 +89,9 @@ True to form, both Fred and George look very pasty. They seem identical except t
 ### Day 2
 **Morning**: No change. Pasty, smell like pineapple or wet flour respectively. To be expected. Hoping to see a little activity after tonights feeding.
 
-**Night**: First feeding! 15 g whole wheat flour + 15 g water/ pineapple juice as appropriate. No activity I can see. Fred is starting to get a little smelly but not very much. George still smelling like a little sweetie. I spent a good bit of the day cooking so the kitchen was a bit warm. Shouldn't be a problem, just making note of it. 
+**Night**: First feeding! 15 g whole wheat flour + 15 g water/ pineapple juice as appropriate. No activity I can see. Fred is starting to get a little smelly but not very much. George still smelling like a little sweetie. I spent a good bit of the day cooking so the kitchen was a bit warm. Shouldn't be a problem, just making note of it.
+
+### Day 3
+**Morning**: Fred has woken up and doubled in size. He is starting to get smelly too, not too bad though. Yeast, alcohol and a slight sweetness. George appears inactive and still smells like pineapple with some slightly yeasty undertones. The yeast definitely isn't active yet, so when I say it smells yeasty thats just what it reminds me of, that tang of fermentation. Doing some more cooking today so my kitchen might be a little warmer than usual again.
+
+**Night**:
