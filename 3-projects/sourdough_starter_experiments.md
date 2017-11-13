@@ -94,4 +94,4 @@ True to form, both Fred and George look very pasty. They seem identical except t
 ### Day 3
 **Morning**: Fred has woken up and doubled in size. He is starting to get smelly too, not too bad though. Yeast, alcohol and a slight sweetness. George appears inactive and still smells like pineapple with some slightly yeasty undertones. The yeast definitely isn't active yet, so when I say it smells yeasty thats just what it reminds me of, that tang of fermentation. Doing some more cooking today so my kitchen might be a little warmer than usual again.
 
-**Night**:
+**Night**: Last feeding of the initial starter mixture. Tomorrow I will switch to water and a 1:1 whole wheat to white flour. Currently about 90g of starter in each jar, which doesn't look like much. I think I will feed without discarding tomorrow. Fred is still smelly and had about double the volume of George. When feeding I could see gas bubbling out when I stirred in the water. Fred is starting to get a little thiner. No real change in George.
