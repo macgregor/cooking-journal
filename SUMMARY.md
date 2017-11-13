@@ -39,3 +39,4 @@ Coming soon
 
 #### November
 * [Week 2 - Nov 5, 2017 to Nov 11, 2017](5-journal/2017/11-November/05_nov_2017_to_11_nov_2017.md)
+* [Week 3 - Nov 12, 2017 to Nov 18, 2017](5-journal/2017/11-November/12_nov_2017_to_18_nov_2017.md)
