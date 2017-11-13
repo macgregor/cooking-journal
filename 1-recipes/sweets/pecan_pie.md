@@ -21,12 +21,12 @@
 
 
 ## Instructions
-1. Preheat oven to 350 degrees
-2. Prebake pie crust until golden brown according to instructions in the recipe.
+1. Preheat oven to 400 degrees
+2. 8. [Blind bake](https://blog.kingarthurflour.com/2015/11/23/blind-bake-pie-crust/) your pie crust - Line the pastry with parchment paper or aluminum foil; fill with pie weights, dried beans or sugar. Bake until pastry begins to color around the edges, about 10 minutes. Set the crust aside to cool while you prepare the filling. **Reduce oven temperature to 350 degrees**
 3. Toast pecans in the oven at 350 degrees for 5 - 8 minutes, be careful not to burn them.
 4. In a saucepan combine the 5 tbsp vegan butter, 1 cup brown sugar, 3/4 cup corn syrup, and 4 tbsp corn starch. Stir and cook over medium heat until it comes to a boil. Reduce to a simmer and cook for another minute. Add the 1/2 tsp salt, and 2 tsp vanilla and stir to combine.
 5. In a food processor, add 1 cup silken tofu and pulse until smooth. Add the corn syrup mixture and pulse again until everything is combined. Add the pecans (reserving about 20 - 50 for the top) and use a spatula to stir them into the filling. Arrange the reserved pecans on top of the pie.
-6. Place a cookie sheet on the bottom rack of your oven and place your pie on the cookie sheet. Bake for about one hour, until the edges of the pie are set. The center might still be a little jiggly. That's alright. Remove from the oven and allow to cool before serving.
+6. Bake at 350 degrees for one hour, until the edges of the pie are set. The center might still be a little jiggly. That's alright. Remove from the oven and allow to cool before serving.
 
 
 ## Storage
@@ -51,11 +51,10 @@ Wrap tightly in plastic wrap and foil or place in a freezer bag. These pies can 
   * counter -
   * fridge -
   * freezer -
-
-### Trial 1
-Optional
-Notes on a specific trial of a recipe. Pontification and things to try differently next time
+* The tofu in this recipe is used as an egg replacement. It lets the pie filling puff up when baked. At least I think, its a bit hard to find details on whats going on with tofu in vegan pies.
+* The edges of my pie got a little crispy, you can help this by making a [pie shield](http://thepieacademy.com/how-to-keep-the-edge-of-your-pie-crust-from-burning/) out of aluminum foil and placing it on the pie part way through baking before the edge gets too dark.
 
 
 ## Sources
 * [Vegan Pecan Pie - Namely Marly](https://namelymarly.com/vegan-pecan-pie/)
+* [King Arthur Pecan Pie](https://www.kingarthurflour.com/recipes/pecan-pie-recipe)
