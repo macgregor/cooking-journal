@@ -4,6 +4,7 @@
 ## Recipes
 
 ### Bread
+* [Buttery Herb Biscuits](1-recipes/bread/herb_biscuits.md)
 * [Sourdough Starter](1-recipes/bread/sourdough_starter.md)
 
 ### Drinks
@@ -15,6 +16,7 @@
 * [Doggie Peanut Butter Birthday Cake](1-recipes/pets/dog/peanutbutter_birthday_cake.md)
 
 ### Sides
+* [Green Bean Casserole](1-recipes/sides/green_bean_casserole.md)
 * [Roasted Potatoes](1-recipes/sides/roasted_potatoes.md)
 
 ### Sweets
@@ -22,7 +24,7 @@
 * [Butterscotch Sauce](1-recipes/sweets/butterscotch_sauce.md)
 * [Dipping Chocolate w/ paraffin wax](1-recipes/sweets/dipping_chocolate_paraffin_wax.md)
 * [Pecan Pie](1-recipes/sweets/pecan_pie.md)
-* [Pumpkin Pie](1-recipes/sweets/pumkin_pie.md)
+* [Pumpkin Pie](1-recipes/sweets/pumpkin_pie.md)
 
 ## Cookbooks
 * [Flour, Water, Salt, Yeast: The Fundamentals of Artisan Bread and Pizza - Ken Forkish](2-cookbooks/flour_water_salt_yeast_ken_forkish.md)
