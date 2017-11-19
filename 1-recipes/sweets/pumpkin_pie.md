@@ -33,9 +33,6 @@
 
 ## Storage
 
-### Room temperature
-Cover with aluminum foil or plastic wrap. Eat within 4 days.
-
 ### Refrigerator
 Might lose some integrity in texture — the filling can separate a bit and the crust may get soggy. Eat within a week.
 
@@ -49,6 +46,7 @@ Wrap tightly in plastic wrap and foil or place in a freezer bag. These pies can 
 
 ## Notes
 * When you remove it from the oven, the edges might be slightly cracked and the middle will still look wobbly. This is ok, it will firm up in the fridge.
+* my first trial crust wasn't as done as I would like, consider blind baking for about 10 minutes at 400 degrees prior to filling
 
 
 ## Sources

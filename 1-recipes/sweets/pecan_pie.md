@@ -5,7 +5,8 @@
 * 1 [prepared pie crust](./pie_crust.md)
 * 5 tbsp vegan butter
 * 1 cup brown sugar
-* 3/4 cup corn syrup
+* 3/4 cup (dark) corn syrup
+* 1 tbsp molasses (trying to darken filling, might not work as intended)
 * 4 tbsp cornstarch
 * 1/2 teaspoon salt
 * 2 tsp vanilla
@@ -31,9 +32,6 @@
 
 ## Storage
 
-### Room temperature
-Cover with aluminum foil or plastic wrap. Eat within 4 days.
-
 ### Refrigerator
 Might lose some integrity in texture — the filling can separate a bit and the crust may get soggy. Eat within a week.
 
@@ -47,12 +45,13 @@ Wrap tightly in plastic wrap and foil or place in a freezer bag. These pies can 
 
 ## Notes
 * I've never seen extra firm silken tofu. Ive only ever seen one kind of silken tofu that comes vacuum sealed and has a picture of a smoothie on it. Has a nearly yogurt consistency to it.
-* It is hard to find information about storing vegan pies. Most pies need to be refrigerated because they contain milk and eggs. Not vegan pies though. In theory they should last pretty well on the counter for several days. Ill reserve a few pieces or testing fridge, freezer and counter:
-  * counter - 
+* It is hard to find information about storing vegan pies. Most pies need to be refrigerated because they contain milk and eggs. Vegan pies don't have dairy, but some ingredients that go in them shouldn't probably be refrigerated (e.g. silken tofu). They might be ok on the counter, but why risk it. Ill reserve a few pieces or testing fridge, freezer and counter:
+  * counter - after 5 days, looks and smells like pecan pie. Did not eat it to see if it makes me sick. Testing in freezer/fridge went well enough that I suggest simply leaving it in the fridge.
   * fridge - after 5 days in the fridge, no soggy crust. Texture of the filling has changed a little bit but not much, still very good.
   * freezer -
 * The tofu in this recipe is used as an egg replacement. It lets the pie filling puff up when baked. At least I think, its a bit hard to find details on whats going on with tofu in vegan pies.
 * The edges of my pie got a little crispy, you can help this by making a [pie shield](http://thepieacademy.com/how-to-keep-the-edge-of-your-pie-crust-from-burning/) out of aluminum foil and placing it on the pie part way through baking before the edge gets too dark.
+* gray pie filling color after pie sets - the color of my pie filling can look less than appetizing, I suspect I need to change up a few ingredients to make it a darker more caramel color. Try: switching from light (clear) corn syrup to dark corn syrup, add some molasses.
 
 
 ## Sources
