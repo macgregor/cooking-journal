@@ -113,3 +113,10 @@ True to form, both Fred and George look very pasty. They seem identical except t
 
 ### Day 7
 **Morning**: Fred still with the nail polish smell. I believe if I start a new batch I will feed in the morning and at night. I also think the have been reading about the impact of temperature on growth rates and think that is primarily what is causing my starters to take so long to activate. Apparently the optimal temperature to make a starter at is around [82 degrees](http://www.thefreshloaf.com/comment/267574#comment-267574) with temperatures below 70 taking significantly longer to develop. Commonly people store their starters in the oven with a light on or on top of the fridge. My oven has no light and the fridge didn't seem that warm. They even make . Might have to come up with a [strategy](http://www.thefreshloaf.com/node/40570/tips-how-keep-your-sourdough-starter-warm) to keep my babies warmer.
+
+**Night**: well, afternoon. I am going to visit family for Thanksgiving and will be on the road during normal feeding time. Feeding about 3 hours early. Fred smelling of nail polish that goes away mostly after giving him a stir. Both Fred and George smell more like a weak beer after stirring. I am bringing both of them with me, hopefully the change in scenery doesn't hurt them.
+
+### Day 8
+**Morning**: neglected, was busy cooking for Thanksgiving lunch.
+
+**Night**: fed around 8 pm, 2 hours later than normal. Same smells from each. Batter like consistency. Can seem a couple small bubbles that form after stirring, prior to feeding. I am a little worried about the water I used, I don't think it was filtered. It is "good water" as described by my father but that doesn't mean is is chlorine free. I am getting a little impatient, I don't understand why my yeast is taking so much longer than others online. My best guess is still temperature. I'm going to keep going though, the smell of alcohol, beer, gas bubbles and the consistency all indicate there is fermentation going on, just not enough to cause any growth. I am going to switch to twice daily feedings starting Monday when I am back in Raleigh.  
