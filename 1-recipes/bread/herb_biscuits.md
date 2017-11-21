@@ -31,10 +31,10 @@
 ## Notes
 * biscuit dough is similar to pastry dough such as [pie crust](../sweets/pie_crust.md) so the same techniques you have for something like that should work here.
 * first attempt my biscuits did not rise, I have a couple theories why and will try to do a little research into both:
-  * waiting too long between mixing/stamping to baking - the apple cider vinegar racts with the baking powder to create carbon dioxide which causes the dough to rise. This reaction starts basically as soon as you mix the wet and dry ingredients. You should try to have them in the oven as quickly as possible after mixing in the wet ingredients.
+  * waiting too long between mixing/stamping to baking - the apple cider vinegar reacts with the baking powder to create carbon dioxide which causes the dough to rise. This reaction starts basically as soon as you mix the wet and dry ingredients. You should try to have them in the oven as quickly as possible after mixing in the wet ingredients.
   * old baking powder - old baking powder might not react as well leading less rise. You can test the freshness by mixing a small spoonful of baking powder with 1/4 cup of hot water. The baking powder should bubble vigorously.
   * don't over work the dough - mixing and kneading develop gluten which will make your biscuits less fluffy
-  * dont twist cutter when stamping out biscuits, just press straight down
+  * don't twist cutter when stamping out biscuits, just press straight down
 
 
 

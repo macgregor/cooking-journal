@@ -21,7 +21,9 @@
 
 ### Sweets
 * [Basic Pie Crust](1-recipes/sweets/pie_crust.md)
+* [Basic White Cake](1-recipes/sweets/basic_white_cake.md)
 * [Butterscotch Sauce](1-recipes/sweets/butterscotch_sauce.md)
+* [Chocolate Buttercream Frosting](1-recipes/sweets/chocolate_buttercream_frosting.md)
 * [Dipping Chocolate w/ paraffin wax](1-recipes/sweets/dipping_chocolate_paraffin_wax.md)
 * [Pecan Pie](1-recipes/sweets/pecan_pie.md)
 * [Pumpkin Pie](1-recipes/sweets/pumpkin_pie.md)
@@ -47,3 +49,4 @@ Coming soon
 #### November
 * [Week 2 - Nov 5, 2017 to Nov 11, 2017](5-journal/2017/11-November/05_nov_2017_to_11_nov_2017.md)
 * [Week 3 - Nov 12, 2017 to Nov 18, 2017](5-journal/2017/11-November/12_nov_2017_to_18_nov_2017.md)
+* [Week 4 - Nov 19, 2017 to Nov 25, 2017](5-journal/2017/11-November/19_nov_2017_to_25_nov_2017.md)
