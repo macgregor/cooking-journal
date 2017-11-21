@@ -9,11 +9,11 @@
 * 1/4 cup cornstarch
 * 1/4 cup maple syrup
 * 1 tsp vanilla extract
-* 1/2 tsp cinnamon
-* 1/2 tsp salt
-* 1/2 tsp ground ginger
-* 1/4 tsp ground nutmeg
-* 1/4 tsp ground allspice
+* 1/4 tsp cinnamon
+* 1/4 tsp salt
+* 1/4 tsp ground ginger
+* 1/8 tsp ground nutmeg
+* 1/8 tsp ground allspice
 
 
 ## Mise en place
@@ -47,6 +47,7 @@ Wrap tightly in plastic wrap and foil or place in a freezer bag. These pies can 
 ## Notes
 * When you remove it from the oven, the edges might be slightly cracked and the middle will still look wobbly. This is ok, it will firm up in the fridge.
 * my first trial crust wasn't as done as I would like, consider blind baking for about 10 minutes at 400 degrees prior to filling
+* was a little spicy, I cut all the spices in half, should probably look a little more in to pumpkin pie spice blends
 
 
 ## Sources
