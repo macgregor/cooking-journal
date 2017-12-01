@@ -50,7 +50,7 @@ Will continue to feed as normal until the weekend before giving up and starting 
 ### Day 6
 No change. Smells bad. No bubbles as far as I can tell. I'm calling it, Luna is officially dead.
 
-### Postmortem
+### Conclusion
 I'm not entirely sure why Luna didn't make it. My best guess is poor planning and too many changing variables. I scaled the volume of starter up and down 3 times to adjust to different container sizes. My original recipe created far too much starter. While I think I kept all the ratios the same and it should have been fine, the stress might have caused problems. There was also a temperature drop on day 4 that wouldn't have helped. I believe the rise I saw on day 3 was a false rise caused by some bacteria that activate before the yeast can. This is pretty common and normally the yeast will active a few days later with regular feeding. Something happened after day 3 that prevented yeast from activating. I also didn't do a good job keeping the sides of the container clean after feeding. Not from lack of trying, my containers didn't lend themselves well to the job.
 
 Lessons learned:
@@ -120,3 +120,40 @@ True to form, both Fred and George look very pasty. They seem identical except t
 **Morning**: neglected, was busy cooking for Thanksgiving lunch.
 
 **Night**: fed around 8 pm, 2 hours later than normal. Same smells from each. Batter like consistency. Can seem a couple small bubbles that form after stirring, prior to feeding. I am a little worried about the water I used, I don't think it was filtered. It is "good water" as described by my father but that doesn't mean is is chlorine free. I am getting a little impatient, I don't understand why my yeast is taking so much longer than others online. My best guess is still temperature. I'm going to keep going though, the smell of alcohol, beer, gas bubbles and the consistency all indicate there is fermentation going on, just not enough to cause any growth. I am going to switch to twice daily feedings starting Monday when I am back in Raleigh.  
+
+### Day 9
+**Morning**: I've decided to end part of the experiment by murdering Fred. Its horrible I know, but at this point both Fred and George seem to be developing at the same rate with George seemingly a little healthier than Fred. Fred has the nail polish smell and George seems to be starting to grow in volume a little more than Fred. It seems wasteful at this point to continue to discard and feed Fred when they are essentially the same now.
+
+### Conclusion
+So this trial went better than Luna overall. While Fred and George both developed an alcohol aroma, it wasn't the really bad smell or hooch that Luna had started to develop. The quantities are also much more reasonable. I also learned a bit about optimal temperature ranges for yeast and lactobacillus growth as well as well as other troubleshooting signs (e.g. nail polish smell) and got to see how pineapple juice (a more acidic starting solution) impacts growth. I will continue to feed George in a new part of this log below.
+
+Lessons Learned:
+* pineapple juice will prevent false blooms and bad aromas in the first few days of growth by reducing the pH of the solution to a point that the gassy bacteria responsible for these signs are unable to develop. This will happen naturally as well, the pineapple juice just give your starter a boost by a couple days. It also made scraping down the sides of the jar easier for some reason.
+* a warm dark place is very important for yeast development. My cold kitchen seems to be doubling or tripling how long thing are taking to develop. [82 degrees](http://www.thefreshloaf.com/comment/267574#comment-267574) is optimal with temperatures below 70 taking significantly longer to develop.
+* nail polish remover/strong alcohol smell = hungry starter - [usually](http://www.thefreshloaf.com/node/31535/sourdough-starter-smelling-acetone). Usually this means your starter is going through its food too fast and producing acetone as a by product of. This could be because you aren't feeding it often enough, it is too warm, you keep too much starter when feeding or you are using too much water. I can eliminate too warm and too much water since I'm weighing it. I'm currently feeding a 1:1:1 (45 g starter, water, flour) so I could increase to maybe a 1:2:2 by only keeping 22 g of starter between feedings. I can also feed morning and night. There is also a chance for a different strain of bacteria which produces acetone to activate and take over your culture which is very hard to recover from and will prevent your yeast from ever starting. Its hard to say where I was with Fred.
+
+## Trial 2.1 - "George"
+I have retired Fred to the great drain pipe in the sky leaving me with just George. George is now 9 days old, I will continue numbering at 9 rather than restarting the counter. I am going to maintain the same feeding ratios of 1:1:1 (starter:water:flour) with a flour mixture of 1:1 King Arthur Whole Wheat and King Arthur Bread Flour. I am also switching to feeding every 12 hours to try to encourage the yeast to develop faster. Many resources I find reference 12 hour feeding schedules. Hopefully I will finally get an active starter this week and can move to the refrigerator.
+
+### Day 9
+**Morning**: Discarded and fed as normal. This is my first morning feeding. Smells slightly of beer before feeding. There seemed to be a little growth from the previous nights feeding.
+
+### Day 10 - 14
+I've been a little preoccupied and there hasn't been a whole lot of change. I've been feeding mostly twice a day. While I'm not seeing anywhere close to doubling in size, I am seeing more signs of gas bubbles with parts of the dough being looking sort of like a web or like the crumb of a loaf of bread. Smells like a weak beer after stirring, sour notes.
+
+### Day 15 - 16
+Starting to get a little more activity. More small bubbles indicating carbon dioxide production and more rise. Doing better with consistent 12 hour feedings. I'm now convinced you need to feed your starter every 12 hours to get it going. I'm also being more deliberate with stirring it well to get more oxygen in the mix.
+
+### Day 17 - 18
+I am becoming frustrated with these sourdough starters. I see people basically just throwing flour and water together and getting a starter a couple days later, but I cannot seem to get active yeast with deliberate effort. Perhaps I am being too hands on but I am not doing that much to it. I have seen very little growth and starting to get the strong alcohol smell Fred had. I am ending George and making a fresh starter.
+
+### Conclusion
+I'm a little unsure of why I never got an active starter. My best guess is that at some point during the process some bacteria took over the starter that wouldn't allow the yeast to grow. I'm afraid I might not gleam much from this failure. Some people online have starters that take up to 3 weeks to activate, so perhaps I just needed to give it longer but I've lost hope in George.
+
+## Trial 3 - "Neville"
+This starter is going to be very similar to "Fred" from the last experiment. I don't think the the technique is flawed but that something simply went wrong.
+
+**Date**: 11/30/2017, 7 am
+* Initial Starter: 15 g filtered water, 15 g King Arthur whole wheat flour
+* Feed (for 2 days): 15 g filtered water, 15 g King Arthur whole wheat flour
+* Discard + Feed twice a day (until active):  maintain a [2:1:1] ratio of starter to water to flour. 45 g starter, 22 g filtered water, 11 g King Arthur whole wheat flour + 11 g King Arthur bread flour
