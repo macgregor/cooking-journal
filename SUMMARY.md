@@ -10,6 +10,9 @@
 ### Drinks
 * [Butterbeer (Alcoholic)](1-recipes/drinks/butterbeer.md)
 
+### Mason Jar Salads
+* [Taco Salad](1-recipes/mason_jar_salads/taco_salad.md)
+
 ### Pets
 
 #### Dog
@@ -50,3 +53,4 @@ Coming soon
 * [Week 2 - Nov 5, 2017 to Nov 11, 2017](5-journal/2017/11-November/05_nov_2017_to_11_nov_2017.md)
 * [Week 3 - Nov 12, 2017 to Nov 18, 2017](5-journal/2017/11-November/12_nov_2017_to_18_nov_2017.md)
 * [Week 4 - Nov 19, 2017 to Nov 25, 2017](5-journal/2017/11-November/19_nov_2017_to_25_nov_2017.md)
+* [Week 5 - Nov 26, 2017 to Dec 2, 2017](5-journal/2017/11-November/26_nov_2017_to_02_dec_2017.md)
