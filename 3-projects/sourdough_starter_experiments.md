@@ -157,3 +157,12 @@ This starter is going to be very similar to "Fred" from the last experiment. I d
 * Initial Starter: 15 g filtered water, 15 g King Arthur whole wheat flour
 * Feed (for 2 days): 15 g filtered water, 15 g King Arthur whole wheat flour
 * Discard + Feed twice a day (until active):  maintain a [2:1:1] ratio of starter to water to flour. 45 g starter, 22 g filtered water, 11 g King Arthur whole wheat flour + 11 g King Arthur bread flour
+
+## Day 1 - 3
+Feeding 100% whole wheat flour, no discarding until reaching about 90 g of starter. On the third day I got noticeable volume increase, more than double in size. This is in line with my results last time. This is not yeast, but other gassy bacteria that activate as the pH drops. The acidity needs to continue to lower before the yeast can activate. These gassy guys will be dead tomorrow. The smell during this time goes from wet yeast to a not pleasant but not terrible sour smell.
+
+## Day 4 - 8
+Quiet period. Discard and feed each morning. The starter to food ratio is 2:1, that is I am keeping 45 g of starter and feeding it with 45 g of water and 45 g of flour. This should give our bacteria and yeast plenty of food for the next 24 hours. The mixture at feeding is is a thick batter. When mixing vigorously you can see strands and sheets of thin stretchy batter. Unless I am wrong, this is gluten forming and giving the starter elasticity. As the food is consumed the starter will thin and take on a pourable consistency. I am also stirring it vigorously each night when I check on it to give the starter much needed oxygen. The unpleasant smell grows a bit before becoming more and more sour. Near the end of this period I am starting to see some small bubbles on the bottom and sides. These could be leftover air pockets from stirring but I think they are the beginnings of our yeast. I am also starting to see small volume increases when I check at night (approximately 12 hours after feeding). Maybe a half inch of growth at first and growing a little bit more each day. This is a good sign.
+
+## Day 9
+Huge growth! Its about doubled in size while I was at work, in maybe 8 hours after feeding. The starter is very light and fluffy with lots of small air pockets. I almost looks like the crumb on a loaf of bread, because it basically is. When stirring it will go back down to its regular size and have a thin, pourable, batter like consistency.  I tried making a savory pancake with the starter discard but I had the heat too high and it did not get properly cooked. Will try again tomorrow.
