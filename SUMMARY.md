@@ -4,19 +4,32 @@
 ## Recipes
 
 ### Bread
+* [Artisan Sourdough Bread](1-recipes/bread/sourdough_bread.md)
 * [Buttery Herb Biscuits](1-recipes/bread/herb_biscuits.md)
 * [Sourdough Starter](1-recipes/bread/sourdough_starter.md)
 
 ### Drinks
 * [Butterbeer (Alcoholic)](1-recipes/drinks/butterbeer.md)
 
-### Mason Jar Salads
-* [Taco Salad](1-recipes/mason_jar_salads/taco_salad.md)
+### Instant Pot
+* [Instant Pot Black Beans](1-recipes/instant_pot/black_beans.md)
 
 ### Pets
 
 #### Dog
 * [Doggie Peanut Butter Birthday Cake](1-recipes/pets/dog/peanutbutter_birthday_cake.md)
+
+### Salads
+* [Chickpea and Celery Salad](1-recipes/salads/chickpea_and_celery_salad.md)
+
+#### Dressing
+* [Creamy Avocado Dressing](1-recipes/salads/dressing/creamy_avocado_dressing.md)
+* [Greek Dressing](1-recipes/salads/dressing/greek_dressing.md)
+
+#### Mason Jar Salads
+* [Chickpea and Farro Greek Salad](1-recipes/salads/mason_jar_salads/chickpea_farro_salad.md)
+* [Roasted Sweet Potato and Black Bean Salad](1-recipes/salads/mason_jar_salads/roasted_sweet_potato_and_black_bean.md)
+* [Taco Salad](1-recipes/salads/mason_jar_salads/taco_salad.md)
 
 ### Sides
 * [Green Bean Casserole](1-recipes/sides/green_bean_casserole.md)
@@ -54,3 +67,6 @@ Coming soon
 * [Week 3 - Nov 12, 2017 to Nov 18, 2017](5-journal/2017/11-November/12_nov_2017_to_18_nov_2017.md)
 * [Week 4 - Nov 19, 2017 to Nov 25, 2017](5-journal/2017/11-November/19_nov_2017_to_25_nov_2017.md)
 * [Week 5 - Nov 26, 2017 to Dec 2, 2017](5-journal/2017/11-November/26_nov_2017_to_02_dec_2017.md)
+
+#### December
+* [Week 1 - Dec 3, 2017 to Dec 9, 2017](5-journal/2017/12-December/03_dec_2017_to_09_dec_2017.md)
