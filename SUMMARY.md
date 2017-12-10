@@ -1,5 +1,6 @@
 
 # Cooking Journal
+* [Useful Resources](useful_resources.md)
 
 ## Recipes
 
