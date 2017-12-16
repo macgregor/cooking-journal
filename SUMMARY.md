@@ -37,19 +37,17 @@
 * [Roasted Potatoes](1-recipes/sides/roasted_potatoes.md)
 
 ### Sweets
-* [Basic Pie Crust](1-recipes/sweets/pie_crust.md)
 * [Basic White Cake](1-recipes/sweets/basic_white_cake.md)
 * [Butterscotch Sauce](1-recipes/sweets/butterscotch_sauce.md)
 * [Chocolate Buttercream Frosting](1-recipes/sweets/chocolate_buttercream_frosting.md)
 * [Dipping Chocolate w/ paraffin wax](1-recipes/sweets/dipping_chocolate_paraffin_wax.md)
-* [Pecan Pie](1-recipes/sweets/pecan_pie.md)
-* [Pumpkin Pie](1-recipes/sweets/pumpkin_pie.md)
 
-## Cookbooks
-* [Flour, Water, Salt, Yeast: The Fundamentals of Artisan Bread and Pizza - Ken Forkish](2-cookbooks/flour_water_salt_yeast_ken_forkish.md)
-* [The Make Ahead Vegan Cookbook: 125 Freezer-Friendly Recipes - Ginny Kay McMeans](2-cookbooks/make_ahead_vegan_ginny_mcmeans.md)
-* [Vegan Richa's Indian Kitchen: Traditional and Creative Recipes for the Home Cook - Richa Hingle](2-cookbooks/vegan_richas_indian_kitchen_richa_hingle.md)
-* [Veganomicon: The Ultimate Vegan Cookbook - Isa Chandra Moskowitz](2-cookbooks/veganomicon_isa_moskowitz.md)
+#### Pies
+* [Basic Pie Crust](1-recipes/sweets/pies/pie_crust.md)
+* [Graham Cracker Pie Crust](1-recipes/sweets/pies/graham_cracker_pie_crust.md)
+* [Key Lime Pie](1-recipes/sweets/pies/key_lime_pie.md)
+* [Pecan Pie](1-recipes/sweets/pies/pecan_pie.md)
+* [Pumpkin Pie](1-recipes/sweets/pies/pumpkin_pie.md)
 
 ## Projects
 * [A Very Vegan Thanksgiving](3-projects/vegan_thanksgiving.md)

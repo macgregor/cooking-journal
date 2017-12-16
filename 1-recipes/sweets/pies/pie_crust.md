@@ -41,7 +41,7 @@ After forming dough ball (step 5 above), wrap in plastic wrap and place in refri
 * [Blind baking](https://blog.kingarthurflour.com/2015/11/23/blind-bake-pie-crust/) the crust may not be desired depending on what kind of pie you are making. Check your recipe to be sure so you don't undercook or overcook your pie crust.
 
 ### Experiments
-[Quest for the Perfect Pie Crust](../../3-projects/pie_crust_quest.md).
+[Quest for the Perfect Pie Crust](../../../3-projects/pie_crust_quest.md).
 
 
 ## Sources

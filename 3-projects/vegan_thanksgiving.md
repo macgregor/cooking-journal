@@ -12,8 +12,8 @@ I'm think my ~2 years of meal prep experience will give me some valuable insight
 * [roasted potatoes](../1-recipes/sides/roasted_potatoes.md)
 
 ### Dessert
-* [Pecan Pie](../1-recipes/sweets/pecan_pie.md)
-* [Pumpkin Pie](../1-recipes/sweets/pumpkin_pie.md)
+* [Pecan Pie](../1-recipes/sweets/pies/pecan_pie.md)
+* [Pumpkin Pie](../1-recipes/sweets/pies/pumpkin_pie.md)
 
 
 ## Planning

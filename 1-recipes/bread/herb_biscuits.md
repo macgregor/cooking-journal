@@ -29,7 +29,7 @@
 7. Bake at 425 degrees for 18 – 22 minutes, until golden brown all over. Let cool for at least 10 minutes before eating.
 
 ## Notes
-* biscuit dough is similar to pastry dough such as [pie crust](../sweets/pie_crust.md) so the same techniques you have for something like that should work here.
+* biscuit dough is similar to pastry dough such as [pie crust](../sweets/pies/pie_crust.md) so the same techniques you have for something like that should work here.
 * first attempt my biscuits did not rise, I have a couple theories why and will try to do a little research into both:
   * waiting too long between mixing/stamping to baking - the apple cider vinegar reacts with the baking powder to create carbon dioxide which causes the dough to rise. This reaction starts basically as soon as you mix the wet and dry ingredients. You should try to have them in the oven as quickly as possible after mixing in the wet ingredients.
   * old baking powder - old baking powder might not react as well leading less rise. You can test the freshness by mixing a small spoonful of baking powder with 1/4 cup of hot water. The baking powder should bubble vigorously.
