@@ -4,6 +4,9 @@
 
 ## Recipes
 
+### Bowls
+* [Thai Tempeh Buddah Bowl](1-recipes/bowls/thai_tempeh_bowl.md)
+
 ### Bread
 * [Artisan Sourdough Bread](1-recipes/bread/sourdough_bread.md)
 * [Buttery Herb Biscuits](1-recipes/bread/herb_biscuits.md)
@@ -22,15 +25,14 @@
 
 ### Salads
 * [Chickpea and Celery Salad](1-recipes/salads/chickpea_and_celery_salad.md)
+* [Chickpea and Farro Greek Salad](1-recipes/salads/chickpea_farro_salad.md)
+* [Roasted Sweet Potato and Black Bean Salad](1-recipes/salads/roasted_sweet_potato_and_black_bean.md)
+* [Taco Salad](1-recipes/salads/taco_salad.md)
 
-#### Dressing
-* [Creamy Avocado Dressing](1-recipes/salads/dressing/creamy_avocado_dressing.md)
-* [Greek Dressing](1-recipes/salads/dressing/greek_dressing.md)
-
-#### Mason Jar Salads
-* [Chickpea and Farro Greek Salad](1-recipes/salads/mason_jar_salads/chickpea_farro_salad.md)
-* [Roasted Sweet Potato and Black Bean Salad](1-recipes/salads/mason_jar_salads/roasted_sweet_potato_and_black_bean.md)
-* [Taco Salad](1-recipes/salads/mason_jar_salads/taco_salad.md)
+### Sauces And Dressing
+* [Cashew Curry Sauce](1-recipes/sauces_and_dressing/cashew_curry_sauce.md)
+* [Creamy Avocado Dressing](1-recipes/sauces_and_dressing/creamy_avocado_dressing.md)
+* [Greek Dressing](1-recipes/sauces_and_dressing/greek_dressing.md)
 
 ### Sides
 * [Green Bean Casserole](1-recipes/sides/green_bean_casserole.md)
@@ -69,3 +71,5 @@ Coming soon
 
 #### December
 * [Week 1 - Dec 3, 2017 to Dec 9, 2017](5-journal/2017/12-December/03_dec_2017_to_09_dec_2017.md)
+* [Week 2 - Dec 10, 2017 to Dec 16, 2017](5-journal/2017/12-December/10_dec_2017_to_16_dec_2017.md)
+* [Week 3 - Dec 17, 2017 to Dec 23, 2017](5-journal/2017/12-December/17_dec_2017_to_23_dec_2017.md)

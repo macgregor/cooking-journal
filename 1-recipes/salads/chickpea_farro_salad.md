@@ -1,8 +1,8 @@
 # Chickpea and Farro Greek Salad
 
 ## Ingredients
-* 1/2 c [chickpea and celery salad](../chickpea_and_celery_salad.md)
-* 1-2 tbsp [Greek dressing](../dressing/greek_dressing.md)
+* 1/2 c [chickpea and celery salad](chickpea_and_celery_salad.md)
+* 1-2 tbsp [Greek dressing](../sauces_and_dressing/greek_dressing.md)
 * 1/2 c cooked farro (or other grain)
 * 2 cup mixed greens
 * 1 tbsp pumpkin or sunflower seeds

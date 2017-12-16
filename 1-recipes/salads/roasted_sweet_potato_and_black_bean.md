@@ -1,9 +1,9 @@
 # Roasted Sweet Potato and Black Bean Salad
 
 ## Ingredients
-* 3	tbsp [Creamy Avocado Dressing](../dressing/creamy_avocado_dressing.md)
+* 3	tbsp [Creamy Avocado Dressing](../sauces_and_dressing/creamy_avocado_dressing.md)
 * 1/4	cup purple cabbage
-* 1/2	cup [black beans](../../instant_pot/black_beans.md)
+* 1/2	cup [black beans](../instant_pot/black_beans.md)
 * 1/3	cup cooked quinoa
 * 1/3	cup sweet potato cubes
 * 2	cups mixed salad greens, washed, torn and dried

@@ -5,7 +5,7 @@
 * 4 stalks celery, diced
 * 2/3 c red onion, chopped
 * 1 cup parsley, chopped
-* 1/3 cup [Greek dressing](./dressing/greek_dressing.md)
+* 1/3 cup [Greek dressing](../sauces_and_dressing/greek_dressing.md)
 
 
 ## Instructions
