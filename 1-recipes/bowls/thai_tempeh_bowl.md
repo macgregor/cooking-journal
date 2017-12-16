@@ -1,4 +1,4 @@
-# Thai Tempeh Buddah Bowl
+# Thai Tempeh Buddha Bowl
 
 ## Ingredients
 * 2	cups mixed greens
@@ -19,4 +19,4 @@
 3. Assemble bowl and top with cashew curry sauce.
 
 ## Sources
-* [thai tempeh buddah bowl - fitmittenkitchen.com](https://www.fitmittenkitchen.com/thai-tempeh-buddha-bowl/)
+* [Thai tempeh Buddha bowl - fitmittenkitchen.com](https://www.fitmittenkitchen.com/thai-tempeh-buddha-bowl/)

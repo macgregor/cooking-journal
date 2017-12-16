@@ -13,7 +13,7 @@
 3. Press firmly into prepared pie pan. Bake for 8 minutes, until set.
 
 ## Notes
-* If the crust isnt holding together well, add extra melted butter or use fewer graham crackers next time.ß
+* If the crust isn't holding together well, add extra melted butter or use fewer graham crackers next time.
 
 ## Sources
 * [Graham Cracker Crust - makeitlikeaman.com](http://www.makeitlikeaman.com/2014/01/11/graham-cracker-crust/)

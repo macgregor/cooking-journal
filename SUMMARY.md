@@ -5,7 +5,7 @@
 ## Recipes
 
 ### Bowls
-* [Thai Tempeh Buddah Bowl](1-recipes/bowls/thai_tempeh_bowl.md)
+* [Thai Tempeh Buddha Bowl](1-recipes/bowls/thai_tempeh_bowl.md)
 
 ### Bread
 * [Artisan Sourdough Bread](1-recipes/bread/sourdough_bread.md)
