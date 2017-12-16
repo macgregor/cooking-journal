@@ -23,7 +23,7 @@
 
 ## Instructions
 1. Preheat oven to 400 degrees
-2. 8. [Blind bake](https://blog.kingarthurflour.com/2015/11/23/blind-bake-pie-crust/) your pie crust - Line the pastry with parchment paper or aluminum foil; fill with pie weights, dried beans or sugar. Bake until pastry begins to color around the edges, about 10 minutes. Set the crust aside to cool while you prepare the filling. **Reduce oven temperature to 350 degrees**
+2. [Blind bake](https://blog.kingarthurflour.com/2015/11/23/blind-bake-pie-crust/) your pie crust - Line the pastry with parchment paper or aluminum foil; fill with pie weights, dried beans or sugar. Bake until pastry begins to color around the edges, about 10 minutes. Set the crust aside to cool while you prepare the filling. **Reduce oven temperature to 350 degrees**
 3. Toast pecans in the oven at 350 degrees for 5 - 8 minutes, be careful not to burn them.
 4. In a saucepan combine the 5 tbsp vegan butter, 1 cup brown sugar, 3/4 cup corn syrup, and 4 tbsp corn starch. Stir and cook over medium heat until it comes to a boil. Reduce to a simmer and cook for another minute. Add the 1/2 tsp salt, and 2 tsp vanilla and stir to combine.
 5. In a food processor, add 1 cup silken tofu and pulse until smooth. Add the corn syrup mixture and pulse again until everything is combined. Add the pecans (reserving about 20 - 50 for the top) and use a spatula to stir them into the filling. Arrange the reserved pecans on top of the pie.
