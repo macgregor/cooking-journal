@@ -5,7 +5,7 @@
             "theme": "dark"
         },
       "gitbooks-summary-gen":{
-            "exclude": ["templates", "README.md", "SUMMARY.md"],
+            "exclude": ["templates", "README.md", "SUMMARY.md", "2-cookbooks"],
             "cleanup-section-names": true,
             "strip-numbers": true,
             "sort-entry-by-title": true

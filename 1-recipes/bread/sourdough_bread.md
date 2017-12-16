@@ -17,6 +17,9 @@
 4. Place dough back in bowl, cover, leave in a warm place to proof for 4 hours.
 5. Dump back onto counter and [shape into a loose ball](https://youtu.be/APEavQg8rMw?t=4m30s): Gently stretch and fold 1 side of the dough, rotate a quarter turn and repeat 3 times. Flip dough over, cover and let bench rest for 30 minutes.
 6. Sprinkle with flour and [shape into a round loaf](https://youtu.be/APEavQg8rMw?t=5m3s)
+7. Place in a towel lined bowl or proofing basket using flour to prevent sticking. Cover and place in refrigerator overnight to proof. Remove from fridge 2 hours before baking.
+8. 30 minutes before baking, place dutch oven in oven and preheat to 480 degrees F
+9. Carefully place dough into dutch oven and score the dough. Reduce temperature to 430 degrees F. Bake for 25 minutes with the lid on, remove the lid and bake for another 25 minutes.
 
 
 ## Notes
