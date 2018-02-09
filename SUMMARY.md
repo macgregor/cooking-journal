@@ -4,6 +4,9 @@
 
 ## Recipes
 
+### Appetizers
+* [Cauliflower Wings](1-recipes/appetizers/cauliflower_wings.md)
+
 ### Bowls
 * [Thai Tempeh Buddha Bowl](1-recipes/bowls/thai_tempeh_bowl.md)
 
