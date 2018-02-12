@@ -75,4 +75,9 @@ Coming soon
 #### December
 * [Week 1 - Dec 3, 2017 to Dec 9, 2017](5-journal/2017/12-December/03_dec_2017_to_09_dec_2017.md)
 * [Week 2 - Dec 10, 2017 to Dec 16, 2017](5-journal/2017/12-December/10_dec_2017_to_16_dec_2017.md)
-* [Week 3 - Dec 17, 2017 to Dec 23, 2017](5-journal/2017/12-December/17_dec_2017_to_23_dec_2017.md)
+
+### 2018
+
+#### Feb
+* [Week 1 - Feb 04, 2018 to Feb 10, 2018](5-journal/2018/02-Feb/04_feb_2018_to_10_feb_2018.md)
+* [Week 2 - Feb 11, 2018 to Feb 17, 2018](5-journal/2018/02-Feb/11_feb_2018_to_17_feb_2018.md)

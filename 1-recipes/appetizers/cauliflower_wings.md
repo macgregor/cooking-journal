@@ -6,7 +6,7 @@
 * 1 medium head cauliflower, chopped into bite sized pieces (you don't want stems)
 * 1/2 c AP flour
 * 1/2 c almond or soy milk
-* 1/4 tsp salt
+* 1/2 tsp salt
 * 1/4 tsp black pepper
 * 1/2 tsp garlic powder
 * 1 c bread crumbs
@@ -29,6 +29,8 @@
 ## Notes
 * The batter will only adhere to the cauliflower wings dry. So, if for any reason you wet your cauliflower, it has to be 100% dry for the batter to stick.
 * if the batter seems too thick, thin out with a few tablespoons of extra milk
+* You may need to double your sauce recipe depending on the size of your cauliflower, I did about a half a large head and didn't have as much sauce as I'd like.
+* buffalo sauce was ok, but I think I need to research different wing sauces
 
 ## Storage
 
