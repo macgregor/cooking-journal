@@ -15,7 +15,7 @@
 ### Sauce
 Use a store bought sauce if you want or make your own. Suggestions:
 * [buffalo sauce](../sauces_and_dressing/buffalo_sauce.md)
-* [brown sugar bbq sauce](../sauces_and_dressings/brown_sugar_bbq_sauce.md)
+* [brown sugar BBQ sauce](../sauces_and_dressing/brown_sugar_bbq_sauce.md)
 
 ## Instructions
 1. Preheat oven to 450 degrees. Line a baking sheet with silicone baking sheet or greased foil.

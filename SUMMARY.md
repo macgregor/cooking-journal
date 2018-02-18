@@ -33,12 +33,15 @@
 * [Taco Salad](1-recipes/salads/taco_salad.md)
 
 ### Sauces And Dressing
+* [Brown Sugar BBQ Sauce](1-recipes/sauces_and_dressing/brown_sugar_bbq_sauce.md)
+* [Buffalo Sauce](1-recipes/sauces_and_dressing/buffalo_sauce.md)
 * [Cashew Curry Sauce](1-recipes/sauces_and_dressing/cashew_curry_sauce.md)
 * [Creamy Avocado Dressing](1-recipes/sauces_and_dressing/creamy_avocado_dressing.md)
 * [Greek Dressing](1-recipes/sauces_and_dressing/greek_dressing.md)
 
 ### Sides
 * [Green Bean Casserole](1-recipes/sides/green_bean_casserole.md)
+* [Herbed Israeli Couscous](1-recipes/sides/herbed_israeli_couscous.md)
 * [Roasted Potatoes](1-recipes/sides/roasted_potatoes.md)
 
 ### Sweets
@@ -46,6 +49,7 @@
 * [Butterscotch Sauce](1-recipes/sweets/butterscotch_sauce.md)
 * [Chocolate Buttercream Frosting](1-recipes/sweets/chocolate_buttercream_frosting.md)
 * [Dipping Chocolate w/ paraffin wax](1-recipes/sweets/dipping_chocolate_paraffin_wax.md)
+* [Rice Pudding (Kheer)](1-recipes/sweets/rice_pudding.md)
 
 #### Pies
 * [Basic Pie Crust](1-recipes/sweets/pies/pie_crust.md)
@@ -81,3 +85,4 @@ Coming soon
 #### Feb
 * [Week 1 - Feb 04, 2018 to Feb 10, 2018](5-journal/2018/02-Feb/04_feb_2018_to_10_feb_2018.md)
 * [Week 2 - Feb 11, 2018 to Feb 17, 2018](5-journal/2018/02-Feb/11_feb_2018_to_17_feb_2018.md)
+* [Week 2 - Feb 18, 2018 to Feb 24, 2018](5-journal/2018/02-Feb/18_feb_2018_to_24_feb_2018.md)
