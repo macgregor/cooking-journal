@@ -15,6 +15,9 @@
 * [Buttery Herb Biscuits](1-recipes/bread/herb_biscuits.md)
 * [Sourdough Starter](1-recipes/bread/sourdough_starter.md)
 
+### Chinese
+* [Chinese Dumplings](1-recipes/chinese/dumplings.md)
+
 ### Drinks
 * [Butterbeer (Alcoholic)](1-recipes/drinks/butterbeer.md)
 
@@ -38,6 +41,7 @@
 * [Cashew Curry Sauce](1-recipes/sauces_and_dressing/cashew_curry_sauce.md)
 * [Creamy Avocado Dressing](1-recipes/sauces_and_dressing/creamy_avocado_dressing.md)
 * [Greek Dressing](1-recipes/sauces_and_dressing/greek_dressing.md)
+* [Simple Dumpling Sauce](1-recipes/sauces_and_dressing/dumpling_sauce.md)
 
 ### Sides
 * [Green Bean Casserole](1-recipes/sides/green_bean_casserole.md)
