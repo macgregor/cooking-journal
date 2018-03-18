@@ -4,9 +4,9 @@
 * 2 tbsp olive oil
 * 2 cups Israeli couscous (uncooked)
 * 4 cups vegetable broth or water
-* 1/4 c parsley, chopped
-* 1 tbsp tarragon
-* 1 tbsp rosemary
+* 1/4 c fresh parsley, chopped
+* 1 tbsp fresh tarragon (1 tsp dried)
+* 1 tbsp fresh rosemary (1 tsp dried)
 * 1/4 c lemon juice
 * 1 tsp salt
 * 1/2 tsp pepper
