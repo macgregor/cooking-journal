@@ -13,7 +13,7 @@
 * 1/2 tsp white pepper powder
 * 1/4 tsp salt
 * 2 tsp cornstarch
-* 24 packaged dumpling skins or wanton wrappers (keep tightly wrapped until ready to use)
+* 24 packaged dumpling skins or wanton wrappers (you will probably end up with way more filling than wrappers so maybe buy extra)
 * 1 tbsp vegetable oil (for cooking)
 * 1 recipe [dumpling sauce](../sauces_and_dressing/dumpling_sauce.md) (optional)
 

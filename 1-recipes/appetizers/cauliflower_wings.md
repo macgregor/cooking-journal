@@ -28,14 +28,17 @@ Use a store bought sauce if you want or make your own. Suggestions:
 
 ## Notes
 * The batter will only adhere to the cauliflower wings dry. So, if for any reason you wet your cauliflower, it has to be 100% dry for the batter to stick.
-* if the batter seems too thick, thin out with a few tablespoons of extra milk
+* If the batter seems too thick, thin out with a few tablespoons of extra milk.
 * You may need to double your sauce recipe depending on the size of your cauliflower, I did about a half a large head and didn't have as much sauce as I'd like.
-* if you don't have corn meal just replace with extra flour
+* If you don't have corn meal just replace with extra flour.
 
 ## Storage
 
 ### Refrigerator - About 4 days
 Store in air tight container, reheat in oven until warm.
+
+### Freezer
+You can freeze the wings after step 4. Place the lined baking sheet with battered cauliflower in the freezer for 20 - 30 minutes until the wings are partially frozen, then move them to a plastic bag. Bake as normal starting at step 5.
 
 ## Sources
 * [vegan cauliflower buffalo wings - jessicainthekitchen.com](https://jessicainthekitchen.com/vegan-cauliflower-buffalo-wings-gluten-free/)
