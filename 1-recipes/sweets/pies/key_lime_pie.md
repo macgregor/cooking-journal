@@ -6,7 +6,7 @@
 * 1 prepared [graham cracker crust](./graham_cracker_pie_crust.md)
 * 1 14.5 oz can of full fat coconut milk
 * 1 tbsp lime zest
-* 1/2 to 3/4 cup lime zest (from 1 pound key limes)
+* 1/2 to 3/4 cup lime juice (from 1 pound key limes)
 * 1 1/4 cup soy milk
 * 5 heaped tbs corn starch
 * 5 tbsp powdered sugar
@@ -15,11 +15,10 @@
 
 ## Instructions
 1. Preheat oven to 375 degrees.
-2. Spray your pie pan with vegetable spray. Process 1 1/2 cup graham crackers in food processor or blender until crumbly. Add 1/3 cup sugar, 1/3 cup melted butter and 3 tbsp melted coconut oil. Pulse a few times until combined. Press into prepared pie pan. Bake for 8 minutes.
-3. Combine 1 14.5 oz can coconut milk, 2 tsp lime zest and lime juice in sauce pan over medium-low heat.
-4. Meanwhile, combine 1 1/4 cup soy milk, 5 tbsp corn starch, 5 tbsp powdered sugar and 1/2 tsp matcha powder in a mixing bowl and whisk until combined. Add extra matcha powder if it isn't green enough for you.
-5. Add soy milk mixture to the sauce pan with coconut milk and lime. Reduce heat to low and stir constantly until it thickens. Once thickened, pour into prepared graham cracker crust.
-6. Let cool slightly then gently cover with piece of plastic wrap, ensuring no air remains. Plastic wrap should lightly touch the filling, this prevents a film from forming on top of the pie. Refrigerate until set, at least 1 to 4 hours.
+2. Combine 1 14.5 oz can coconut milk, 1 tbsp lime zest and lime juice in sauce pan over medium-low heat.
+3. Meanwhile, combine 1 1/4 cup soy milk, 5 tbsp corn starch, 5 tbsp powdered sugar and 1/2 tsp matcha powder in a mixing bowl and whisk until combined. Add extra matcha powder if it isn't green enough for you.
+4. Add soy milk mixture to the sauce pan with coconut milk and lime. Reduce heat to low and stir constantly until it thickens. Once thickened, pour into prepared graham cracker crust.
+5. Let cool slightly then gently cover with piece of plastic wrap, ensuring no air remains. Plastic wrap should lightly touch the filling, this prevents a film from forming on top of the pie. Refrigerate until set, at least 1 to 4 hours.
 
 
 ## Notes
