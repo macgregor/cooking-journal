@@ -22,7 +22,9 @@
 * [Butterbeer (Alcoholic)](1-recipes/drinks/butterbeer.md)
 
 ### Instant Pot
+* [Instant Pot (No Soak) Kidney Bean Curry](1-recipes/instant_pot/kidney_bean_curry.md)
 * [Instant Pot Black Beans](1-recipes/instant_pot/black_beans.md)
+* [Instant Pot Rice](1-recipes/instant_pot/rice.md)
 
 ### Pets
 
@@ -61,32 +63,3 @@
 * [Key Lime Pie](1-recipes/sweets/pies/key_lime_pie.md)
 * [Pecan Pie](1-recipes/sweets/pies/pecan_pie.md)
 * [Pumpkin Pie](1-recipes/sweets/pies/pumpkin_pie.md)
-
-## Projects
-* [A Very Vegan Thanksgiving](3-projects/vegan_thanksgiving.md)
-* [Creating a Sourdough Starter Recipe](3-projects/sourdough_starter_experiments.md)
-* [Quest for the Perfect Pie Crust](3-projects/pie_crust_quest.md)
-
-## Techniques
-Coming soon
-
-## Journal
-
-### 2017
-
-#### November
-* [Week 2 - Nov 5, 2017 to Nov 11, 2017](5-journal/2017/11-November/05_nov_2017_to_11_nov_2017.md)
-* [Week 3 - Nov 12, 2017 to Nov 18, 2017](5-journal/2017/11-November/12_nov_2017_to_18_nov_2017.md)
-* [Week 4 - Nov 19, 2017 to Nov 25, 2017](5-journal/2017/11-November/19_nov_2017_to_25_nov_2017.md)
-* [Week 5 - Nov 26, 2017 to Dec 2, 2017](5-journal/2017/11-November/26_nov_2017_to_02_dec_2017.md)
-
-#### December
-* [Week 1 - Dec 3, 2017 to Dec 9, 2017](5-journal/2017/12-December/03_dec_2017_to_09_dec_2017.md)
-* [Week 2 - Dec 10, 2017 to Dec 16, 2017](5-journal/2017/12-December/10_dec_2017_to_16_dec_2017.md)
-
-### 2018
-
-#### Feb
-* [Week 1 - Feb 04, 2018 to Feb 10, 2018](5-journal/2018/02-Feb/04_feb_2018_to_10_feb_2018.md)
-* [Week 2 - Feb 11, 2018 to Feb 17, 2018](5-journal/2018/02-Feb/11_feb_2018_to_17_feb_2018.md)
-* [Week 2 - Feb 18, 2018 to Feb 24, 2018](5-journal/2018/02-Feb/18_feb_2018_to_24_feb_2018.md)
